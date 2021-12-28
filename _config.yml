@@ -21,10 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications", file: "publications.md"}
   - {file: "About Tiago", file: "tiago.md"}
   - {file: "Group Members", file: "group_members.md"}
-  - {file: "News", file: "news.md"}
+  - {file: "News"}
   
   
-
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tiago.rodrigues@ff.ulisboa.pt"}
   - {title: Github, icon: github, url: "https://github.com/digichem.github.io"}
