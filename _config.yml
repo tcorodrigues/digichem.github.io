@@ -17,11 +17,11 @@ show_social: true
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Research"}
-  - {file: "Publications"}
-  - {file: "About Tiago"}
-  - {file: "Group Members"}
-  - {file: "News"}
+  - {file: "Research", file: "research.md"}
+  - {file: "Publications", file: "publications.md"}
+  - {file: "About Tiago", file: "tiago.md"}
+  - {file: "Group Members", file: "group_members.md"}
+  - {file: "News", file: "news.md"}
   
   
 
