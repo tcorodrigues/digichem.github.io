@@ -19,7 +19,6 @@ A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, **T. Rodrigues**\*; 
 K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, **T. Rodrigues**, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle; Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation. *J. Med. Chem.* **2021**, *64*, 11496-11526. [link](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806)
 <br />
 
-
 S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Conde; Facts and Figures on Materials Science and Nanotechnology Progress and Investment. *ACS Nano* **2021**, *15*, 15940-15952. [link](https://pubs.acs.org/doi/10.1021/acsnano.1c03992)
 - \*equal contribution
 - selected for cover art
@@ -83,6 +82,10 @@ I. Mahú, A. Barateiro, E. Rial-Pensado, N. Martinéz-Sánchez, S. H. Vaz, P. M.
 **T. Rodrigues**\*, G. J. L. Bernardes; Machine learning for target discovery in drug development. *Curr. Opin. Chem. Biol.* **2020**, *56*, 16-22. [link](https://www.sciencedirect.com/science/article/abs/pii/S1367593119301140)
 - \*corresponding author
 <br />
+<br />
+<br />
+
+### <span style = 'color:blue'>**2019**</span>
 
 R. Traquete, E. Henderson, S. Picaud, P. M. S. D. Cal, F. Sieglitz, **T. Rodrigues**, R. Oliveira, P. Filippakopoulus, G. J. L. Bernardes; Evaluation of linker length effects on a BET bromodomain probe. *Chem. Commun.* **2019**, *55*, 10128-10131. [link](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc05054j)
 <br />
@@ -95,42 +98,74 @@ A. Filipa de Almeida, R. Moreira, **T. Rodrigues**\*; Synthetic organic chemistr
 **T. Rodrigues**\*, B. P. de Almeida, N. L. Barbosa-Morais, G. J. L. Bernardes; Dissecting celastrol with machine learning to unveil dark pharmacology. *Chem. Commun.* **2019**, *55*, 6369-6372. [link](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc03116b)
 - \*corresponding author
 <br />
+
+C. Baker, **T. Rodrigues**, B. P. de Almeida, N. Barbosa-Morais, G. J. L. Bernardes; Natural product–drug conjugates for modulation of TRPV1-expressing tumors. *Bioorg. Med. Chem.* **2019**, *27*, 2531-2536. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968089619302512?via%3Dihub)
+<br />
+
+D. Reker\*, G. J. L. Bernardes, **T. Rodrigues**\*; Computational advances in combating colloidal aggregation in drug discovery. *Nat. Chem.* **2019**, *11*, 402-418. [link](https://www.nature.com/articles/s41557-019-0234-9)
+- \*corresponding author
 <br />
 <br />
+<br />
 
-### <span style = 'color:blue'>**2019**</span>
+### <span style = 'color:blue'>**2018**</span>
+
+L. Robke, **T. Rodrigues**, P. Schröder, D. J. Foley, G. J. L. Bernardes, L. Laraia, H. Waldmann; Discovery of 2,4-dimethoxypyridines as novel autophagy inhibitors. *Tetrahedron* **2018**, *74*, 4531-4537. [link](https://www.sciencedirect.com/science/article/abs/pii/S0040402018308421?via%3Dihub)
+<br />
+
+**T. Rodrigues**\*, M. Werner, J. Roth, E. H. G. da Cruz, M. C. Marques, S. A. Lobo, A. Koeberle, F. Corzana, E. N. da Silva Júnior, O. Werz, G. J. L. Bernardes\*; Machine intelligence decrypts β-lapachone as an allosteric 5-lipoxygenase inhibitor. *Chem. Sci.* **2018**, *9*, 6899-6903. [link](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc02634c)
+- \*corresponding author
+- selected as hot article
+- highlighted in Chemistry World (26.07.2018)
+- interviewed on National TV December (Sic Notíias) 2018
+- Exame Informática Award in “Software” category
+<br />
+
+**T. Rodrigues**\*, G. J. L. Bernardes\*; Development of antibody-directed therapies: quo vadis? *Angew. Chem. Int. Ed.* **2018**, *57*, 2032-2034. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201712185)
+- \*corresponding author
+<br />
+<br />
+<br />
+
+### <span style = 'color:blue'>**2017**</span>
+
+A. Freedy, M. Matos, O. Boutureira, F. Corzana, A. Guerreiro, P. Akkapeddi, V. Somovilla, **T. Rodrigues**, K. Nicholls, B. Xie, G. Jiménez-Osés, K. Brindle, A. Neves, G. Bernardes; Chemoselective installation of amine bonds on proteins through aza-Michael ligation. *J. Am. Chem. Soc.* **2017**, *139*, 18365-18375. [link](https://pubs.acs.org/doi/10.1021/jacs.7b10702)
+<br />
+
+**T. Rodrigues**\*; Harnessing the potential of natural products in drug discovery from a cheminformatics vantage point. *Org. Biomol. Chem.* **2017**, *15*, 9275-9282. [link](https://pubs.rsc.org/en/content/articlelanding/2017/ob/c7ob02193c)
+- \*corresponding author
+- selected as Hot article
+- Invited contribution
+<br />
+
+J. B. Bertoldo, **T. Rodrigues**, L. Dunsmore, F. A. Aprile, M. C. Marques, L. Rosado, O. Boutureira, T. B. Steinbrecher, W. Sherman, F. Corzana, H. Terenzi, G. J. L. Bernardes; A Water-Bridged Cysteine-Cysteine Redox Regulation Mechanism in Bacterial Protein Tyrosine Phosphatases. *Chem* **2017**, *3*, 665-677. [link](https://www.cell.com/chem/fulltext/S2451-9294(17)30316-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2451929417303169%3Fshowall%3Dtrue)
+- highlighted at Medical Express (13.10.2017)
+<br />
+
+E. Jiménez-Moreno, Z. Guo, B. L. Oliveira, I. S. Albuquerque, A. Kitowski, A. Guerreiro, O. Boutureira, **T. Rodrigues**, G. Jiménez-Osés, G. J . L. Bernardes; Vinyl ether/tetrazine pair for the traceless release of alcohols in cells. *Angew. Chem. Int. Ed.* **2017**, *56*, 243-247. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201609607)
+<br />
+<br />
+<br />
+
+### <span style = 'color:blue'>**2016**</span>
 
 
 
 
-C. Baker, T. Rodrigues, B. P. de Almeida, N. Barbosa-Morais, G. J. L. Bernardes; Natural product–drug conjugates for modulation of TRPV1-expressing tumors. Bioorg Med Chem 2019, 27, 2531-2536.
 
-D. Reker*, G. J. L. Bernardes, T. Rodrigues*; Computational advances in combating colloidal aggregation in drug discovery. Nature Chem 2019, 11, 402-418.
-*corresponding author
 
-L. Robke, T. Rodrigues, P. Schröder, D. J. Foley, G. J. L. Bernardes, L. Laraia, H. Waldmann; Discovery of 2,4-dimethoxypyridines as novel autophagy inhibitors. Tetrahedron 2018, 74, 4531-4537.
 
-T. Rodrigues*, M. Werner, J. Roth, E. H. G. da Cruz, M. C. Marques, S. A. Lobo, A. Koeberle, F. Corzana, E. N. da Silva Júnior, O. Werz, G. J. L. Bernardes*; Machine intelligence decrypts β-lapachone as an allosteric 5-lipoxygenase inhibitor. Chem Sci 2018, 9, 6899-6903.
-*corresponding author
-selected as hot article
-highlighted in Chemistry World (26.07.2018)
-interviewed on National TV December 2018
-Exame Informática Award in “Software” category
 
-T. Rodrigues*, G. J. L. Bernardes*; Development of antibody-directed therapies: quo vadis? Angew Chem Int Ed 2018, 57, 2032-2034.
-*corresponding author
 
-A. Freedy, M. Matos, O. Boutureira, F. Corzana, A. Guerreiro, P. Akkapeddi, V. Somovilla, T. Rodrigues, K. Nicholls, B. Xie, G. Jiménez-Osés, K. Brindle, A. Neves, G. Bernardes; Chemoselective installation of amine bonds on proteins through aza-Michael ligation. J Am Chem Soc 2017, 139, 18365-18375.
 
-T. Rodrigues*; Harnessing the potential of natural products in drug discovery from a cheminformatics vantage point. Org Biomol Chem 2017, 15, 9275-9282.
-*corresponding author
-selected as Hot article
-invited contribution
 
-J. B. Bertoldo, T. Rodrigues, L. Dunsmore, F. A. Aprile, M. C. Marques, L. Rosado, O. Boutureira, T. B. Steinbrecher, W. Sherman, F. Corzana, H. Terenzi, G. J. L. Bernardes; A Water-Bridged Cysteine-Cysteine Redox Regulation Mechanism in Bacterial Protein Tyrosine Phosphatases. Chem 2017, 3, 665-677.
-highlighted at Medical Express (13.10.2017)
 
-E. Jiménez-Moreno, Z. Guo, B. L. Oliveira, I. S. Albuquerque, A. Kitowski, A. Guerreiro, O. Boutureira, T. Rodrigues, G. Jiménez-Osés, G. J . L. Bernardes; Vinyl ether/tetrazine pair for the traceless release of alcohols in cells. Angew Chem Int Ed 2017, 56, 243-247.
+
+
+
+
+
+
 
 T. Rodrigues, G. J. L. Bernardes; Antibody-drug conjugates: The missing link. Nature Chem 2016, 8, 1088-1090.
 
