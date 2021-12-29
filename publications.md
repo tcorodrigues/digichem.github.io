@@ -9,6 +9,7 @@ For citation analyses and h-index check my [Google Scholar](https://scholar.goog
 <br />
 <br />
 <br />
+
 ### <span style = 'color:blue'>**2021**</span>
 
 A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, **T. Rodrigues**\*; Machine learning for next generation nanotechlonology in healthcare. *Matter* **2021**, *4*, 3078-3080. [link](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
