@@ -7,7 +7,7 @@ For citation analyses and h-index check my [Google Scholar](https://scholar.goog
 
 
 
-**T. Rodrigues***; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
+**T. Rodrigues**\*; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
 - *corresponding author
 
 A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, T. Rodrigues*; Machine learning for next generation nanotechlonology in healthcare. Matter 2021, 4, 3078-3080.
