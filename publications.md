@@ -13,34 +13,43 @@ A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, **T. Rodrigues**\*; 
 <br />
 
 K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, **T. Rodrigues**, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle; Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation. *J. Med. Chem.* **2021**, *64*, 11496-11526. [link](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806)
+<br />
 
 
+S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Conde; Facts and Figures on Materials Science and Nanotechnology Progress and Investment. *ACS Nano* **2021**, *15*, 15940-15952. [link](https://pubs.acs.org/doi/10.1021/acsnano.1c03992)
+- \*equal contribution
+- selected for cover art
+<br />
 
-S. Talebian*, T. Rodrigues*, J. das Neves, B. Sarmento, R. Langer, J. Conde; Facts and Figures on Materials Science and Nanotechnology Progress and Investment. ACS Nano 2021, 15, 15940-15952.
-		*equal contribution
-		selected for cover art
+A. F. Almeida, F. A. P. Ataíde, R. M. S. Loureiro, R. Moreira, **T. Rodrigues**\*; Augmenting adaptive machine learning with kinetic modelling for reaction optimization. *J. Org. Chem.* **2021**, *86*, 14192-14198. [link](https://pubs.acs.org/doi/10.1021/acs.joc.1c01038)
+- \*corresponding author
+- Invited contribution to the “Enabling Techniques for Organic Synthesis” issue
+<br />
 
-A. F. Almeida, F. A. P. Ataíde, R. M. S. Loureiro, R. Moreira, T. Rodrigues*; Augmenting adaptive machine learning with kinetic modelling for reaction optimization. J. Org. Chem. 2021, 86, 14192-14198.
-		*corresponding author
-		Invited contribution to the “Enabling Techniques for Organic Synthesis” issue
+K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Combating small molecule aggregation with machine learning. *Cell Rep. Phys. Sci.* **2021**, *2*, 100573. [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(21)00288-5)
+- \*corresponding author
+- <br />
 
-K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, T. Rodrigues*; Combating small molecule aggregation with machine learning. Cell Rep. Phys. Sci. 2021, 2, 100573.
-		*corresponding author
+J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. Sousa, M. C. Marques, B. P. de Almeida, S. Lee, E. P. Leites, D. Picard, A. Samanta, S. H. Vaz, F. Sieglitz, M. Langini, M. Remke, R. Roque, T. Weiss, M. Weller, Y. Liu, S. Han, F. Corzana, V. A. Morais, C. C. Faria, T. Carvalho, P. Filippakopoulos, B. Snijder, N. L. Barbosa-Morais, V. Y. Moiseenkova-Bell, Gonçalo J. L. Bernardes; Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression. *ACS Cent. Sci.* **2021**, *7*, 868-881. [link](https://pubs.acs.org/doi/10.1021/acscentsci.1c00070)
+- \*equal contribution
+- highlighted in Público (21.04.2021)
+- highlighted in GEN (21.04.2021)
+- highlighted in ecancer (21.04.2021)
+- highlighted in Technology networks (21.04.2021)
+- highlighted in News Medical (21.04.2021)
+- highlighted in Sciencemag (21.04.2021)
+- highlighted in Physorg.com (21.04.2021)
+- highlighted in Newswise (21.04.2021)
+- highlighted in Mirage (21.04.2021)
+- highlighted in Sciencenewsnet (21.04.2021)
+- highlighted in EurekAlert! (21.04.2021)
+- technology yielded TargTex S.A.
+<br />
+<br />
+<br />
 
-J. Conde*, R. A. Pumroy*, C. Baker*, T. Rodrigues*, A. Guerreiro, B. B. Sousa, M. C. Marques, B. P. de Almeida, S. Lee, E. P. Leites, D. Picard, A. Samanta, S. H. Vaz, F. Sieglitz, M. Langini, M. Remke, R. Roque, T. Weiss, M. Weller, Y. Liu, S. Han, F. Corzana, V. A. Morais, C. C. Faria, T. Carvalho, P. Filippakopoulos, B. Snijder, N. L. Barbosa-Morais, V. Y. Moiseenkova-Bell, Gonçalo J. L. Bernardes; Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression. ACS Cent Sci 2021, 7, 868-881.
-*equal contribution
-highlighted in Público (21.04.2021)
-highlighted in GEN (21.04.2021)
-highlighted in ecancer (21.04.2021)
-highlighted in Technology networks (21.04.2021)
-highlighted in News Medical (21.04.2021)
-highlighted in Sciencemag (21.04.2021)
-highlighted in Physorg.com (21.04.2021)
-highlighted in Newswise (21.04.2021)
-highlighted in Mirage (21.04.2021)
-highlighted in Sciencenewsnet (21.04.2021)
-highlighted in EurekAlert! (21.04.2021)
-technology yielded TargTex S.A.
+### <span style = 'color:blue'>**2020**</span>
+
 
 D. Reker, Emily A. Hoyt, G. J. L. Bernardes*, T. Rodrigues*; Adaptive optimization of chemical reactions with minimal experimental information. Cell Rep Phys Sci 2020, 1, 100247.
 *corresponding author
