@@ -3,9 +3,7 @@ For citation analyses and h-index check my [Google Scholar](https://scholar.goog
 <br />
 <br />
 <br />
-
-
-### 2021 
+### <span style = 'color:blue'>**2021**</span>
 
 
 
