@@ -1,5 +1,5 @@
 **T. Rodrigues**; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
-1. corresponding author
+- corresponding author
 
 A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, T. Rodrigues*; Machine learning for next generation nanotechlonology in healthcare. Matter 2021, 4, 3078-3080.
 		*co-corresponding author
