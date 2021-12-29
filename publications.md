@@ -10,8 +10,11 @@ For citation analyses and h-index check my [Google Scholar](https://scholar.goog
 
 A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, **T. Rodrigues**\*; Machine learning for next generation nanotechlonology in healthcare. *Matter* **2021**, *4*, 3078-3080. [link](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
 - \*co-corresponding author
+<br />
 
-K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, T. Rodrigues, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle; Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation. J. Med. Chem. 2021, 64, 11496-11526.
+K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, **T. Rodrigues**, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle; Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation. *J. Med. Chem.* **2021**, *64*, 11496-11526. [link](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806)
+
+
 
 S. Talebian*, T. Rodrigues*, J. das Neves, B. Sarmento, R. Langer, J. Conde; Facts and Figures on Materials Science and Nanotechnology Progress and Investment. ACS Nano 2021, 15, 15940-15952.
 		*equal contribution
