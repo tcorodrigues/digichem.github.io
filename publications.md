@@ -149,77 +149,89 @@ E. Jiménez-Moreno, Z. Guo, B. L. Oliveira, I. S. Albuquerque, A. Kitowski, A. G
 
 ### <span style = 'color:blue'>**2016**</span>
 
+**T. Rodrigues**, G. J. L. Bernardes; Antibody-drug conjugates: The missing link. *Nat. Chem.* **2016**, *8*, 1088-1090. [link](https://www.nature.com/articles/nchem.2685)
+<br />
+
+**T. Rodrigues**\*, F. Sieglitz, V. J. Somovilla, P. M. S. D. Cal, A. Galione, F. Corzana\*, G. J. L. Bernardes\*; Unveiling (-)-englerin A as a L-type calcium channel modulator. *Angew. Chem. Int. Ed.* **2016**, *55*, 11077-11081.[link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201604336)
+- \*corresponding author
+<br />
+
+L. Friedrich, **T. Rodrigues**, P. Schneider, G. Schneider; From complex natural products to simple synthetic mimetics by computational de novo design. *Angew. Chem. Int. Ed.* **2016**, *55*, 6789-6792. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201601941)
+- Evaluated by the Faculty of 1000
+<br />
+
+**T. Rodrigues**, D. Reker, P. Schneider, G. Schneider; Counting on natural products for drug design; *Nat. Chem.* **2016**, *8*, 531-541. [link](https://www.nature.com/articles/nchem.2479)
+<br />
+
+**T. Rodrigues**, F. Sieglitz, G. J. B. Bernardes; Natural product modulators of Transient Receptor Potential (TRP) channels as potential anti-cancer agents. *Chem. Soc. Rev.* **2016**, *45*, 6130-6137. [link](https://pubs.rsc.org/en/content/articlelanding/2016/CS/C5CS00916B)
+<br />
+
+M. Bieler, M. Reutlinger, **T. Rodrigues**, P. Schneider, J. M. Kriegl, G. Schneider; Designing multi-target compound libraries with Gaussian process models. *Mol. Inf.* **2016**, *35*, 192-198. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201501012)
+<br />
+<br />
+<br />
+
+### <span style = 'color:blue'>**2015**</span>
+
+**T. Rodrigues**, D. Reker, M. Welin, M. Caldera, C. Brunner, G. Bagernet, P. Schneider, B. Walse, G. Schneider; De novo fragment design for drug discovery and chemical biology. *Angew. Chem. Int. Ed.* **2015**, *54*, 15079-15083. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201508055)
+- selected as Very Important Paper
+- highlighted in “In The Pipeline” (2.11.2015)
+- highlighted in “Practical Fragments” (23.11.2015) 
+<br />
+
+**T. Rodrigues**, D. Reker, J. Kunze, P. Schneider, G. Schneider; Revealing the macromolecular targets of fragment-like natural products. *Angew. Chem. Int. Ed.* **2015**, *54*, 10516-10520. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201504241)
+<br />
+
+A. M. Perna\*, **T. Rodrigues**\*, T. P. Schmidt, M. Böhm, K. Stutz, D. Reker, B. Pfeiffer, K.-H. Altmann, S. Backert, S. Wessler, G. Schneider; Fragment-based de novo design reveals a small molecule inhibitor of Helicobacter pylori HtrA. *Angew. Chem. Int. Ed.* **2015**, *54*, 10244-10248. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201504035)
+- \*equal contribution
+- selected as Hot Paper
+<br />
+
+**T. Rodrigues**, Y.-C. Lin, M. Hartenfeller, S. Renner, Y. F. Lim, G. Schneider; Repurposing de novo designed entities reveals phosphodiesterase 3B and cathepsin L modulators. *Chem. Commun.* **2015**, *51*, 7478-7481. [link](https://pubs.rsc.org/en/content/articlelanding/2015/cc/c5cc01376c)
+<br />
+
+**T. Rodrigues**, N. Hauser, D. Reker, M. Reutlinger, T. Wunderlin, J. Hamon, G. Koch, G. Schneider; Multidimensional de novo design reveals 5-HT2B receptor-selective ligands. *Angew. Chem. Int. Ed.* **2015**, *54*, 1551-1555. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201410201)
+<br />
+<br />
+<br />
+
+### <span style = 'color:blue'>**Prior to 2015**</span>
+
+D. Reker, A. M. Perna, **T. Rodrigues**, P. Schneider, M. Reutlinger, B. Mönch, A. Koeberle, C. Lamers, M. Gabler, H. Steinmetz, R. Müller, M. Schubert-Zsilavecz, O. Werz, G. Schneider; Revealing the macromolecular targets of complex natural products. *Nat. Chem.* **2014**, *6*, 1072-1078. [link](https://www.nature.com/articles/nchem.2095)
+- highlighted in ETH Life (12.11.2014)
+- highlighted in Science Daily (12.11.2014)
+- highlighted in Physorg.com (12.11.2014)
+- highlighted in EurekAlert! (12.11.2014)
+- highlighted in the Chimia issue of March 2015
+- evaluated by the Faculty of 1000
+<br />
+
+G. Schneider, D. Reker, **T. Rodrigues**, P. Schneider; Coping with polypharmacology by computational medicinal chemistry. *Chimia* **2014**, *68*, 648-653. [link](https://www.ingentaconnect.com/content/scs/chimia/2014/00000068/00000009/art00012;jsessionid=54pevdiu9eq2v.x-ic-live-02)
+- Invited contribution to special issue Computational Chemistry in Switzerland 
+<br />
+
+P. J. A. Madeira, A. R. F. Sitoe, D. Gonçalves, **T. Rodrigues**, R. C. Guedes, F. Lopes, R. Moreira, M. R. Bronze; Antiplasmodial drugs in the gas phase: A CID and DFT study of quinolon-4(1H)-imine derivatives. *J. Am. Soc. Mass Spectrom.* **2014**, *25*, 1650-1661. [link](https://link.springer.com/article/10.1007/s13361-014-0940-x)
+<br />
+
+**T. Rodrigues**, P. Schneider, G. Schneider; Accessing new chemical entities using microfluidic technology. *Angew. Chem. Int. Ed.* **2014**, *53*, 5750-5758. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201400988)
+<br />
+
+D. Reker, **T. Rodrigues**, P. Schneider, G. Schneider; Identifying the macromolecular targets of de novo designed chemical entities through self-organizing map consensus. *Proc. Natl. Acad. Sci. USA* **2014**, *111*, 4067-4072. [link](https://www.pnas.org/content/111/11/4067)
+- highlighted in ETH Life (17.03.2014)
+- highlighted in ScienceWorld Report (18.03.2014)
+- highlighted in Science Daily (18.03.2014)
+- highlighted in physorg.com (18.03.2014)
+- highlighted in Ad hoc news (18.03.2014)
+- highlighted in EurekAlert! (18.03.2014)
+<br />
+
+J. Kunze, N. Todoroff, P. Schneider, **T. Rodrigues**, T. Geppert, F. Reisen, H. Schreuder, J. Saas, G. Hessler, K.-H. Baringhaus, G. Schneider; Targeting dynamic pockets of HIV-1 protease by structure-based computational screening for allosteric inhibitors. *J. Chem. Inf. Model.* **2014**, *54*, 987-991. [link](https://pubs.acs.org/doi/10.1021/ci400712h)
+<br />
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-T. Rodrigues, G. J. L. Bernardes; Antibody-drug conjugates: The missing link. Nature Chem 2016, 8, 1088-1090.
-
-T. Rodrigues,* F. Sieglitz, V. J. Somovilla, P. M. S. D. Cal, A. Galione, F. Corzana,* G. J. L. Bernardes*; Unveiling (-)-englerin A as a L-type calcium channel modulator. Angew Chem Int Ed 2016, 55, 11077-11081.
-*corresponding author
-
-L. Friedrich, T. Rodrigues, P. Schneider, G. Schneider; From complex natural products to simple synthetic mimetics by computational de novo design. Angew Chem Int Ed 2016, 55, 6789-6792.
-Evaluated by the Faculty of 1000
-
-T. Rodrigues, D. Reker, P. Schneider, G. Schneider; Counting on natural products for drug design; Nature Chem 2016, 8, 531-541.
-
-T. Rodrigues, F. Sieglitz, G. J. B. Bernardes; Natural product modulators of Transient Receptor Potential (TRP) channels as potential anti-cancer agents. Chem Soc Rev 2016, 45, 6130-6137.
-
-M. Bieler, M. Reutlinger, T. Rodrigues, P. Schneider, J. M. Kriegl, G. Schneider; Designing multi-target compound libraries with Gaussian process models. Mol Inf 2016, 35, 192-198.
-
-T. Rodrigues, D. Reker, M. Welin, M. Caldera, C. Brunner, G. Bagernet, P. Schneider, B. Walse, G. Schneider; De novo fragment design for drug discovery and chemical biology. Angew Chem Int Ed 2015, 54, 15079-15083.
-selected as Very Important Paper
-highlighted in “In The Pipeline” (2.11.2015)
-highlighted in “Practical Fragments” (23.11.2015) 
-
-T. Rodrigues, D. Reker, J. Kunze, P. Schneider, G. Schneider; Revealing the macromolecular targets of fragment-like natural products. Angew Chem Int Ed 2015, 54, 10516-10520.
-
-A. M. Perna,* T. Rodrigues,* T. P. Schmidt, M. Böhm, K. Stutz, D. Reker, B. Pfeiffer, K.-H. Altmann, S. Backert, S. Wessler, G. Schneider; Fragment-based de novo design reveals a small molecule inhibitor of Helicobacter pylori HtrA. Angew Chem Int Ed 2015, 54, 10244-10248.
-*equal contribution
-selected as Hot Paper
-
-T. Rodrigues, Y.-C. Lin, M. Hartenfeller, S. Renner, Y. F. Lim, G. Schneider; Repurposing de novo designed entities reveals phosphodiesterase 3B and cathepsin L modulators. Chem Commun 2015, 51, 7478-7481.
-
-T. Rodrigues, N. Hauser, D. Reker, M. Reutlinger, T. Wunderlin, J. Hamon, G. Koch, G. Schneider; Multidimensional de novo design reveals 5-HT2B receptor-selective ligands. Angew Chem Int Ed 2015, 54, 1551-1555.
-
-D. Reker, A. M. Perna, T. Rodrigues, P. Schneider, M. Reutlinger, B. Mönch, A. Koeberle, C. Lamers, M. Gabler, H. Steinmetz, R. Müller, M. Schubert-Zsilavecz, O. Werz, G. Schneider; Revealing the macromolecular targets of complex natural products. Nature Chem 2014, 6, 1072-1078.
-highlighted in ETH Life (12.11.2014)
-highlighted in Science Daily (12.11.2014)
-highlighted in Physorg.com (12.11.2014)
-highlighted in EurekAlert! (12.11.2014)
-highlighted in the Chimia issue of March 2015
-evaluated by the Faculty of 1000
-
-G. Schneider, D. Reker, T. Rodrigues, P. Schneider; Coping with polypharmacology by computational medicinal chemistry. Chimia 2014, 68, 648-653.
-Invited contribution to special issue Computational Chemistry in Switzerland 
-
-P. J. A. Madeira, A. R. F. Sitoe, D. Gonçalves, T. Rodrigues, R. C. Guedes, F. Lopes, R. Moreira, M. R. Bronze; Antiplasmodial drugs in the gas phase: A CID and DFT study of quinolon-4(1H)-imine derivatives. J Am Soc Mass Spectrom 2014, 25, 1650-1661.
-
-T. Rodrigues, P. Schneider, G. Schneider; Accessing new chemical entities using microfluidic technology. Angew Chem Int Ed 2014, 53, 5750-5758.
-
-D. Reker, T. Rodrigues, P. Schneider, G. Schneider; Identifying the macromolecular targets of de novo designed chemical entities through self-organizing map consensus. Proc Natl Acad Sci USA 2014, 111, 4067-4072.
-highlighted in ETH Life (17.03.2014)
-highlighted in ScienceWorld Report (18.03.2014)
-highlighted in Science Daily (18.03.2014)
-highlighted in physorg.com (18.03.2014)
-highlighted in Ad hoc news (18.03.2014)
-highlighted in EurekAlert! (18.03.2014)
-
-J. Kunze, N. Todoroff, P. Schneider, T. Rodrigues, T. Geppert, F. Reisen, H. Schreuder, J. Saas, G. Hessler, K.-H. Baringhaus, G. Schneider; Targeting dynamic pockets of HIV-1 protease by structure-based computational screening for allosteric inhibitors. J Chem Inf Model 2014, 54, 987-991.	
 
 M. Reutlinger, T. Rodrigues, P. Schneider, G. Schneider; Multi-objective molecular de novo design by fragment prioritization. Angew Chem Int Ed 2014, 53, 4244-4248.
 highlighted in ETH Life 17.03.2014
