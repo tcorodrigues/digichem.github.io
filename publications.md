@@ -2,14 +2,11 @@ For citation analyses and h-index check my [Google Scholar](https://scholar.goog
 <br />
 <br />
 <br />
-<br />
 ### <span style = 'color:blue'>**2021**</span>
 
-
-
-
 **T. Rodrigues**\*; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
-- *corresponding author
+- \*corresponding author
+<br />
 
 A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, T. Rodrigues*; Machine learning for next generation nanotechlonology in healthcare. Matter 2021, 4, 3078-3080.
 		*co-corresponding author
