@@ -1,3 +1,6 @@
+For citation analysis and h-index check my [Google Scholar](https://scholar.google.com/citations?user=lX3oVTgAAAAJ&hl=en).
+
+
 **T. Rodrigues***; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
 - *corresponding author
 
