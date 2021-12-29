@@ -28,7 +28,7 @@ A. F. Almeida, F. A. P. Ataíde, R. M. S. Loureiro, R. Moreira, **T. Rodrigues**
 
 K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Combating small molecule aggregation with machine learning. *Cell Rep. Phys. Sci.* **2021**, *2*, 100573. [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(21)00288-5)
 - \*corresponding author
-- <br />
+<br />
 
 J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. Sousa, M. C. Marques, B. P. de Almeida, S. Lee, E. P. Leites, D. Picard, A. Samanta, S. H. Vaz, F. Sieglitz, M. Langini, M. Remke, R. Roque, T. Weiss, M. Weller, Y. Liu, S. Han, F. Corzana, V. A. Morais, C. C. Faria, T. Carvalho, P. Filippakopoulos, B. Snijder, N. L. Barbosa-Morais, V. Y. Moiseenkova-Bell, Gonçalo J. L. Bernardes; Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression. *ACS Cent. Sci.* **2021**, *7*, 868-881. [link](https://pubs.acs.org/doi/10.1021/acscentsci.1c00070)
 - \*equal contribution
@@ -50,39 +50,54 @@ J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. 
 
 ### <span style = 'color:blue'>**2020**</span>
 
+D. Reker, Emily A. Hoyt, G. J. L. Bernardes, T. **Rodrigues**\*; Adaptive optimization of chemical reactions with minimal experimental information. *Cell Rep. Phys. Sci.* **2020**, *1*, 100247. [link](https://www.sciencedirect.com/science/article/pii/S2666386420302654)
+- \*corresponding author
+- highlighted in Computational Chemistry Highlights blog (30.11.2018)
+- highlighted in Proteins and Wave Functions (10.01.2019)
+- highlighted in Chemistry World (12.11.2020) 
+- highlighted in editorial *Cell Rep Phys Sci* **2021**, *2*, 100316
+- selected for “Best of 2020” collection
+- most read in December 2020 to May 2021
+<br />
 
-D. Reker, Emily A. Hoyt, G. J. L. Bernardes*, T. Rodrigues*; Adaptive optimization of chemical reactions with minimal experimental information. Cell Rep Phys Sci 2020, 1, 100247.
-*corresponding author
-highlighted in Computational Chemistry Highlights blog (30.11.2018)
-highlighted in Proteins and Wave Functions (10.01.2019)
-highlighted in Chemistry World (12.11.2020) 
-highlighted in editorial Cell Rep Phys Sci 2021, 2, 100316
-selected for “Best of 2020” collection
-most read in December 2020 to May 2021
+J. D. Seixas, B. B. Sousa, M. C. Marques, A. Guerreiro, R. Traquete, **T. Rodrigues**, I. S. Albuquerque, M. Sousa, A. R. Lemos, P. M. F. Sousa, T. M. Bandeiras, D. Wu, S. K. Doyle, C. V. Robinson, A. N. Koehler, F. Corzana, P. M. Matias, G. J. L. Bernardes; Structural and biophysical insights of the mode of covalent binding of rationally designed potent BMX inhibitors. *RSC Chem Biol* **2020**, *1*, 251-262. [link](https://pubs.rsc.org/en/content/articlelanding/2020/cb/d0cb00033g)
+- selected for Editor’s choice 2021
+<br />
 
-J. D. Seixas, B. B. Sousa, M. C. Marques, A. Guerreiro, R. Traquete, T. Rodrigues, I. S. Albuquerque, M. Sousa, A. R. Lemos, P. M. F. Sousa, T. M. Bandeiras, D. Wu, S. K. Doyle, C. V. Robinson, A. N. Koehler, F. Corzana, P. M. Matias, G. J. L. Bernardes; Structural and biophysical insights of the mode of covalent binding of rationally designed potent BMX inhibitors. RSC Chem Biol 2020, 1, 251-262.
-selected for Editor’s choice 2021
+**T. Rodrigues**\*; The good, the bad, and the ugly in chemical and biological data for machine learning. *Drug Discov. Today: Technol.* **2019**, *32-33*, 3-8. [link](https://www.sciencedirect.com/science/article/pii/S1740674920300068?via%3Dihub)
+- \*corresponding author
+- highlighted in Practical Cheminformatics (18.01.2021)
+<br />
 
-T. Rodrigues*; The good, the bad, and the ugly in chemical and biological data for machine learning. Drug Discov Today: Technol 2019, 32-33, 3-8.
-*corresponding author
-highlighted in Practical Cheminformatics (18.01.2021)
+R. F. Rocha, **T. Rodrigues**, A. C. O. Menegatti, G. J. L. Bernardes, H. Terenzi; The antidiabetic drug lobeglitazone has the potential to inhibit PTP1B activity. *Bioorg. Chem.* **2020**, *100*, 103927. [link](https://www.sciencedirect.com/science/article/abs/pii/S0045206820300407?via%3Dihub)
+<br />
 
-R. F. Rocha, T. Rodrigues, A. C. O. Menegatti, G. J. L. Bernardes, H. Terenzi; The antidiabetic drug lobeglitazone has the potential to inhibit PTP1B activity. Bioorg Chem 2020, 100, 103927.
+I. Mahú, A. Barateiro, E. Rial-Pensado, N. Martinéz-Sánchez, S. H. Vaz, P. M. S. D. Cal, B. Jenkins, **T. Rodrigues**, C. Cordeiro, M. F. Costa, R. Mendes, E. Seixas, M. M. A. Pereira, N. Kubasova, V. Gres, I. Morris, C. Temporão, M. Olivares, Y. Sanz, A. Koulman, F. Corzana, A. M. Sebastião, M. López, G. J. L. Bernardes, A. I. Domingos; Brain-sparing sympathofacilitators mitigate obesity without adverse cardiovascular effects. *Cell Metab.* **2020**, *31*, 1120-1135. [link](https://www.sciencedirect.com/science/article/pii/S1550413120301959)
+- highlighted in Nature Reviews Endocrinology (27.05.2020)
+<br />
 
-I. Mahú, A. Barateiro, E. Rial-Pensado, N. Martinéz-Sánchez, S. H. Vaz, P. M. S. D. Cal, B. Jenkins, T. Rodrigues, C. Cordeiro, M. F. Costa, R. Mendes, E. Seixas, M. M. A. Pereira, N. Kubasova, V. Gres, I. Morris, C. Temporão, M. Olivares, Y. Sanz, A. Koulman, F. Corzana, A. M. Sebastião, M. López, G. J. L. Bernardes, A. I. Domingos; Brain-sparing sympathofacilitators mitigate obesity without adverse cardiovascular effects. Cell Metab 2020, 31, 1120-1135.
-highlighted in Nature Reviews Endocrinology (27.05.2020)
+**T. Rodrigues**\*, G. J. L. Bernardes; Machine learning for target discovery in drug development. *Curr. Opin. Chem. Biol.* **2020**, *56*, 16-22. [link](https://www.sciencedirect.com/science/article/abs/pii/S1367593119301140)
+- \*corresponding author
+<br />
 
-T. Rodrigues*, G. J. L. Bernardes*; Machine learning for target discovery in drug development. Curr Opin Chem Biol 2020, 56, 16-22.
-*corresponding author
+R. Traquete, E. Henderson, S. Picaud, P. M. S. D. Cal, F. Sieglitz, **T. Rodrigues**, R. Oliveira, P. Filippakopoulus, G. J. L. Bernardes; Evaluation of linker length effects on a BET bromodomain probe. *Chem. Commun.* **2019**, *55*, 10128-10131. [link](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc05054j)
+<br />
 
-R. Traquete, E. Henderson, S. Picaud, P. M. S. D. Cal, F. Sieglitz, T. Rodrigues, R. Oliveira, P. Filippakopoulus, G. J. L. Bernardes; Evaluation of linker length effects on a BET bromodomain probe. Chem Commun 2019, 55, 10128-10131.
+A. Filipa de Almeida, R. Moreira, **T. Rodrigues**\*; Synthetic organic chemistry driven by artificial intelligence. *Nat. Rev. Chem.* **2019**, *3*, 589-604.[link](https://www.nature.com/articles/s41570-019-0124-0)
+- \*corresponding author
+- highlighted in Scale blog (27.08.2019)
+<br />
 
-A. Filipa de Almeida, R. Moreira, T. Rodrigues*; Synthetic organic chemistry driven by artificial intelligence. Nature Rev Chem 2019, 3, 589-604.
-*corresponding author
-highlighted in Scale blog (27.08.2019)
+**T. Rodrigues**\*, B. P. de Almeida, N. L. Barbosa-Morais, G. J. L. Bernardes; Dissecting celastrol with machine learning to unveil dark pharmacology. *Chem. Commun.* **2019**, *55*, 6369-6372. [link](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc03116b)
+- \*corresponding author
+<br />
+<br />
+<br />
 
-T. Rodrigues, B. P. de Almeida, N. L. Barbosa-Morais, G. J. L. Bernardes; Dissecting celastrol with machine learning to unveil dark pharmacology. Chem Commun 2019, 55, 6369-6372.
-*corresponding author
+### <span style = 'color:blue'>**2019**</span>
+
+
+
 
 C. Baker, T. Rodrigues, B. P. de Almeida, N. Barbosa-Morais, G. J. L. Bernardes; Natural product–drug conjugates for modulation of TRPV1-expressing tumors. Bioorg Med Chem 2019, 27, 2531-2536.
 
