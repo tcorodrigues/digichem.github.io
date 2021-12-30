@@ -24,7 +24,7 @@ S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Cond
 - selected for cover art
 <br />
 
-<img align="center" src="_images/TOC_ACSNano_2021.png" width=200 > ![TOC](_images/TOC_ACSNano_2021.png)
+<img align="center" src="_images/TOC_ACSNano_2021.png" width=200
 
 <br />
 
