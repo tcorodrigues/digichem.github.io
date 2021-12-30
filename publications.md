@@ -79,9 +79,34 @@ J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. 
 - highlighted in EurekAlert! (21.04.2021)
 - technology yielded TargTex S.A.
 
-
-
 <br />
+
+
+<div class="warning">
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
+<b>isomorphism</b>  &rarr;  
+- \*equal contribution
+- highlighted in Público (21.04.2021)
+- highlighted in GEN (21.04.2021)
+- highlighted in ecancer (21.04.2021)
+- highlighted in Technology networks (21.04.2021)
+- highlighted in News Medical (21.04.2021)
+- highlighted in Sciencemag (21.04.2021)
+- highlighted in Physorg.com (21.04.2021)
+- highlighted in Newswise (21.04.2021)
+- highlighted in Mirage (21.04.2021)
+- highlighted in Sciencenewsnet (21.04.2021)
+- highlighted in EurekAlert! (21.04.2021)
+- technology yielded TargTex S.A.<br>
+</p>
+</div>
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
