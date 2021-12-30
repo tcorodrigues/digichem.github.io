@@ -26,7 +26,7 @@ S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Cond
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSNano_2021.png" alt="toc"/>
+  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSNano_2021.png" alt="toc"/ width="100">
 </p>
 
 
