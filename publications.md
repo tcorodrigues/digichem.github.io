@@ -80,17 +80,10 @@ J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. 
 - technology yielded TargTex S.A.
 
 
-| - | - |
-|---|---|
-| I am text to the left  | ![toc](https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg) |
-| ![toc](https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg) | I am text to the right |
-<br />
-<br />
-<br />
-<br />
+
 <br />
 
-<p align="right">
+<p align="center">
   <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
 </p>
 
