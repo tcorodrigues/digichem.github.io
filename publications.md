@@ -2,7 +2,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 <br />
-### <span style = 'color:blue'>**2022**</span>
+### <span style = 'color:#1c8cc8 '>**2022**</span>
 
 **65\.** **T. Rodrigues**\*; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
 <br />
