@@ -250,82 +250,82 @@ D. Reker, **T. Rodrigues**, P. Schneider, G. Schneider; Identifying the macromol
 J. Kunze, N. Todoroff, P. Schneider, **T. Rodrigues**, T. Geppert, F. Reisen, H. Schreuder, J. Saas, G. Hessler, K.-H. Baringhaus, G. Schneider; Targeting dynamic pockets of HIV-1 protease by structure-based computational screening for allosteric inhibitors. *J. Chem. Inf. Model.* **2014**, *54*, 987-991. [link](https://pubs.acs.org/doi/10.1021/ci400712h)
 <br />
 
-M. Reutlinger, **T. Rodrigues**, P. Schneider, G. Schneider; Multi-objective molecular de novo design by fragment prioritization. *Angew. Chem. Int. Ed.* **2014**, *53*, 4244-4248. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201310864)
+**23\.** M. Reutlinger, **T. Rodrigues**, P. Schneider, G. Schneider; Multi-objective molecular de novo design by fragment prioritization. *Angew. Chem. Int. Ed.* **2014**, *53*, 4244-4248. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201310864)
 - highlighted in ETH Life 17.03.2014
 <br />
 
-J. A. Hiss, M. Reutlinger, C. P. Koch, A. M. Perna, P. Schneider, **T. Rodrigues**, S. Haller, G. Folkers, L. Weber, R. B. Baleeiro, P. Walden, P. Wrede, G. Schneider; Combinatorial chemistry by ant colony optimization. *Future Med. Chem.* **2014**, *6*, 267-280. [link](https://www.future-science.com/doi/10.4155/fmc.13.203)
+**22\.** J. A. Hiss, M. Reutlinger, C. P. Koch, A. M. Perna, P. Schneider, **T. Rodrigues**, S. Haller, G. Folkers, L. Weber, R. B. Baleeiro, P. Walden, P. Wrede, G. Schneider; Combinatorial chemistry by ant colony optimization. *Future Med. Chem.* **2014**, *6*, 267-280. [link](https://www.future-science.com/doi/10.4155/fmc.13.203)
 <br />
 
-M. Reutlinger, **T. Rodrigues**, P. Schneider, G. Schneider; Combining on-chip synthesis of a focused combinatorial library with computational target prediction reveals imidazopyridine GPCR ligands. *Angew. Chem. Int. Ed.* **2014**, *53*, 582-585. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201307786)
+**21\.** M. Reutlinger, **T. Rodrigues**, P. Schneider, G. Schneider; Combining on-chip synthesis of a focused combinatorial library with computational target prediction reveals imidazopyridine GPCR ligands. *Angew. Chem. Int. Ed.* **2014**, *53*, 582-585. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201307786)
 - selected as Hot Paper
 <br />
 
-**T. Rodrigues**, G. Schneider; Flashback forward: Reaction-driven de novo design of bioactive compounds. *Synlett* **2014**, *25*, 170-178. [link](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0033-1340216)
+**20\.** **T. Rodrigues**, G. Schneider; Flashback forward: Reaction-driven de novo design of bioactive compounds. *Synlett* **2014**, *25*, 170-178. [link](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0033-1340216)
 - Invited Account
 <br />
 
-**T. Rodrigues**\*, A. S. Ressurreição, F. P. da Cruz, I. S. Albuquerque, J. Gut, M. P. Carrasco, D. Gonçalves, R. C. Guedes, D. J. V. A. dos Santos, M. M. Mota, P. J. Rosenthal, R. Moreira, M. Prudêncio, F. Lopes; Flavones as isosteres of 4(1H)-quinolones: discovery of ligand efficient and dual stage antimalarial lead compounds. *Eur. J. Med. Chem.* **2013**, *69*, 872-880. [link](https://www.sciencedirect.com/science/article/abs/pii/S0223523413005801)
+**19\.** **T. Rodrigues**\*, A. S. Ressurreição, F. P. da Cruz, I. S. Albuquerque, J. Gut, M. P. Carrasco, D. Gonçalves, R. C. Guedes, D. J. V. A. dos Santos, M. M. Mota, P. J. Rosenthal, R. Moreira, M. Prudêncio, F. Lopes; Flavones as isosteres of 4(1H)-quinolones: discovery of ligand efficient and dual stage antimalarial lead compounds. *Eur. J. Med. Chem.* **2013**, *69*, 872-880. [link](https://www.sciencedirect.com/science/article/abs/pii/S0223523413005801)
 - \*corresponding author
 <br />
 
-**T. Rodrigues**, T. Kudoh, F. Roudnicky, Y. F. Lim, Y.-C. Lin, C. P. Koch, M. Seno, M. Detmar, G. Schneider; Steering target selectivity and potency by fragment-based de novo drug design. *Angew. Chem. Int. Ed.* **2013**, *52*, 10006-10009. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201304847)
+**18\.** **T. Rodrigues**, T. Kudoh, F. Roudnicky, Y. F. Lim, Y.-C. Lin, C. P. Koch, M. Seno, M. Detmar, G. Schneider; Steering target selectivity and potency by fragment-based de novo drug design. *Angew. Chem. Int. Ed.* **2013**, *52*, 10006-10009. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201304847)
 - selected as Very Important Paper
 - highlighted in the Chimia issue of December 2013
 <br />
 
-M. P. Carrasco, J. Gut, **T. Rodrigues**, F. Lopes, P. J. Rosenthal, R. Moreira, D. J. V. A. dos Santos; Exploring the Molecular Basis of Qo bc1 Complex Inhibitors Activity to Find Novel Antimalarials Hits. *Mol. Inf.* **2013**, *32*, 659-670. [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.201300024)
+**17\.** M. P. Carrasco, J. Gut, **T. Rodrigues**, F. Lopes, P. J. Rosenthal, R. Moreira, D. J. V. A. dos Santos; Exploring the Molecular Basis of Qo bc1 Complex Inhibitors Activity to Find Novel Antimalarials Hits. *Mol. Inf.* **2013**, *32*, 659-670. [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.201300024)
 <br />
 
-**T. Rodrigues**\*, F. P. da Cruz, Maria J. Lafuente-Monasterio, D. Gonçalves, A. S. Ressurreição, A. R. Sitoe, M. R. Bronze, J. Gut, G. Schneider, M. M. Mota, P. J. Rosenthal, M. Prudêncio, F.-J. Gamo, F. Lopes, R. Moreira; Quinolin-4(1H)-imines are Potent Antiplasmodial Drugs Targeting the Liver Stage of Malaria. *J. Med. Chem.* **2013**, *56*, 4811-4815. [link](https://pubs.acs.org/doi/10.1021/jm400246e)
+**16\.** **T. Rodrigues**\*, F. P. da Cruz, Maria J. Lafuente-Monasterio, D. Gonçalves, A. S. Ressurreição, A. R. Sitoe, M. R. Bronze, J. Gut, G. Schneider, M. M. Mota, P. J. Rosenthal, M. Prudêncio, F.-J. Gamo, F. Lopes, R. Moreira; Quinolin-4(1H)-imines are Potent Antiplasmodial Drugs Targeting the Liver Stage of Malaria. *J. Med. Chem.* **2013**, *56*, 4811-4815. [link](https://pubs.acs.org/doi/10.1021/jm400246e)
 - \*corresponding author*
 <br />
 
-M. Reutlinger, C. P. Koch, D. Reker, N. Todoroff, P. Schneider, **T. Rodrigues**, G. Schneider; Chemically advanced template search (CATS) for scaffold-hopping and prospective target prediction for 'orphan' molecules. *Mol. Inf.* **2013**, *32*, 133-138. [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.201200141)
+**15\.** M. Reutlinger, C. P. Koch, D. Reker, N. Todoroff, P. Schneider, **T. Rodrigues**, G. Schneider; Chemically advanced template search (CATS) for scaffold-hopping and prospective target prediction for 'orphan' molecules. *Mol. Inf.* **2013**, *32*, 133-138. [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.201200141)
 <br />
 
-**T. Rodrigues**, F. Roudnicky, K. P. Koch, T. Kudoh, D. Reker, M. Detmar, G. Schneider; De novo design and optimization of Aurora A kinase inhibitors. *Chem. Sci.* **2013**, *4*, 1229-1233. [link](https://pubs.rsc.org/en/content/articlelanding/2013/sc/c2sc21842a)
+**14\.** **T. Rodrigues**, F. Roudnicky, K. P. Koch, T. Kudoh, D. Reker, M. Detmar, G. Schneider; De novo design and optimization of Aurora A kinase inhibitors. *Chem. Sci.* **2013**, *4*, 1229-1233. [link](https://pubs.rsc.org/en/content/articlelanding/2013/sc/c2sc21842a)
 <br />
 
-B. Spänkuch, S. Keppner, L. Lange, **T. Rodrigues**, H. Zettl, C. P. Koch, M. Reutlinger, M. Hartenfeller, P. Schneider, G. Schneider; Drugs by numbers: Reaction-driven de novo design of potent and selective anticancer leads. *Angew. Chem. Int. Ed.* **2013**, *52*, 4676-4681. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201206897)
+**13\.** B. Spänkuch, S. Keppner, L. Lange, **T. Rodrigues**, H. Zettl, C. P. Koch, M. Reutlinger, M. Hartenfeller, P. Schneider, G. Schneider; Drugs by numbers: Reaction-driven de novo design of potent and selective anticancer leads. *Angew. Chem. Int. Ed.* **2013**, *52*, 4676-4681. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201206897)
 - selected as Very Important Paper
 <br />
 
-V. Hähnke, N. Todoroff, **T. Rodrigues**, G. Schneider; Significance estimation for sequence-based chemical similarity searching (PhAST) and application to Aurora A kinase inhibitors. *Future Med. Chem.* **2012**, *4*, 1897-1906. [link](https://www.future-science.com/doi/10.4155/fmc.12.148)
+**12\.** V. Hähnke, N. Todoroff, **T. Rodrigues**, G. Schneider; Significance estimation for sequence-based chemical similarity searching (PhAST) and application to Aurora A kinase inhibitors. *Future Med. Chem.* **2012**, *4*, 1897-1906. [link](https://www.future-science.com/doi/10.4155/fmc.12.148)
 <br />
 
-F. P. da Cruz, C. Martin, K. Buchholz, M. J. Lafuente-Monasterio, **T. Rodrigues**, B. Sönnichsen, R. Moreira, F.-J. Gamo, M. Marti, M. M. Mota, M. Hannus, M. Prudêncio; Drug screen targeted at Plasmodium liver stages identifies a potent multi-stage anti-malarial drug. *J. Infect. Dis.* **2012**, *205*, 1278-1286. [link](https://academic.oup.com/jid/article/205/8/1278/878383)
+**11\.** F. P. da Cruz, C. Martin, K. Buchholz, M. J. Lafuente-Monasterio, **T. Rodrigues**, B. Sönnichsen, R. Moreira, F.-J. Gamo, M. Marti, M. M. Mota, M. Hannus, M. Prudêncio; Drug screen targeted at Plasmodium liver stages identifies a potent multi-stage anti-malarial drug. *J. Infect. Dis.* **2012**, *205*, 1278-1286. [link](https://academic.oup.com/jid/article/205/8/1278/878383)
 - Evaluated by the Faculty of 1000
 <br />
 
-**T. Rodrigues**, M. Prudêncio, R. Moreira, M. M. Mota, F. Lopes; Targeting the Liver Stage of Malaria Parasites: A Yet Unmet Goal. *J. Med. Chem.* **2012**, *55*, 995-1012. [link](https://pubs.acs.org/doi/abs/10.1021/jm201095h)
+**10\.** **T. Rodrigues**, M. Prudêncio, R. Moreira, M. M. Mota, F. Lopes; Targeting the Liver Stage of Malaria Parasites: A Yet Unmet Goal. *J. Med. Chem.* **2012**, *55*, 995-1012. [link](https://pubs.acs.org/doi/abs/10.1021/jm201095h)
 <br />
 
-A. Klenner, V. Hähnke, T. Geppert, P. Schneider, H. Zettl, S. Haller, **T. Rodrigues**, F. Reisen, B. Hoy, A. M. Schaible, O. Werz, S. Wessler, G. Schneider; From virtual screening to bioactive compounds by visualizing and clustering of chemical space. *Mol. Inf.* **2012**, *31*, 21-26. [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.201100147)
+**9\.** A. Klenner, V. Hähnke, T. Geppert, P. Schneider, H. Zettl, S. Haller, **T. Rodrigues**, F. Reisen, B. Hoy, A. M. Schaible, O. Werz, S. Wessler, G. Schneider; From virtual screening to bioactive compounds by visualizing and clustering of chemical space. *Mol. Inf.* **2012**, *31*, 21-26. [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.201100147)
 - 6th most accessed paper in 2012
 <br />
 
-**T. Rodrigues**, F. Lopes, R. Moreira; Microwave-assisted Wittig reaction of semistabilized nitro-substituted benzyltriphenyl-phosphorous ylides with aldehydes in phase-transfer conditions. *Synth. Commun.* **2012**, *42*, 747-755. [link](https://www.tandfonline.com/doi/abs/10.1080/00397911.2010.530378)
+**8\.** **T. Rodrigues**, F. Lopes, R. Moreira; Microwave-assisted Wittig reaction of semistabilized nitro-substituted benzyltriphenyl-phosphorous ylides with aldehydes in phase-transfer conditions. *Synth. Commun.* **2012**, *42*, 747-755. [link](https://www.tandfonline.com/doi/abs/10.1080/00397911.2010.530378)
 <br />
 
-**T. Rodrigues**, J. Gut, P. J. Rosenthal, P. M. O’Neill, G. A. Biagini, R. Moreira, F. Lopes, D. J. V. A. dos Santos, R. C. Guedes; Identification of new antimalarial leads by use of virtual screening against cytochrome bc1. *Bioorg. Med. Chem.* **2011**, *19*, 6302-6308. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968089611007188?via%3Dihub)
+**7\.** **T. Rodrigues**, J. Gut, P. J. Rosenthal, P. M. O’Neill, G. A. Biagini, R. Moreira, F. Lopes, D. J. V. A. dos Santos, R. C. Guedes; Identification of new antimalarial leads by use of virtual screening against cytochrome bc1. *Bioorg. Med. Chem.* **2011**, *19*, 6302-6308. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968089611007188?via%3Dihub)
 <br />
 
-**T. Rodrigues**\*, R. Moreira, F. Lopes; New hope in the fight against malaria?. *Future Med. Chem.* **2011**, *3*, 1-3. [link](https://www.future-science.com/doi/10.4155/fmc.10.274)
+**6\.** **T. Rodrigues**\*, R. Moreira, F. Lopes; New hope in the fight against malaria?. *Future Med. Chem.* **2011**, *3*, 1-3. [link](https://www.future-science.com/doi/10.4155/fmc.10.274)
 - \*corresponding author
 - Invited editorial
 <br />
 
-**T. Rodrigues**, D. J. V. A. dos Santos, R. Moreira, F. Lopes, R. C. Guedes; A quantum mechanical study of novel potential inhibitors of cytochrome bc1 as antimalarial compounds. *Int. J. Quantum Chem.* **2011**, *111*, 1196-1207. [link](https://onlinelibrary.wiley.com/doi/10.1002/qua.22741)
+**5\.** **T. Rodrigues**, D. J. V. A. dos Santos, R. Moreira, F. Lopes, R. C. Guedes; A quantum mechanical study of novel potential inhibitors of cytochrome bc1 as antimalarial compounds. *Int. J. Quantum Chem.* **2011**, *111*, 1196-1207. [link](https://onlinelibrary.wiley.com/doi/10.1002/qua.22741)
 <br />
 
-**T. Rodrigues**, F. Lopes, R. Moreira; Inhibitors of the Mitochondrial Electron Transport Chain and de novo Pyrimidine Biosynthesis as Antimalarials: The Present Status. *Curr. Med. Chem.* **2010**, *17*, 929-956. [link](https://www.eurekaselect.net/article/16135)
+**4\.** **T. Rodrigues**, F. Lopes, R. Moreira; Inhibitors of the Mitochondrial Electron Transport Chain and de novo Pyrimidine Biosynthesis as Antimalarials: The Present Status. *Curr. Med. Chem.* **2010**, *17*, 929-956. [link](https://www.eurekaselect.net/article/16135)
 <br />
 
-**T. Rodrigues**, R. C. Guedes, D. J. V. A. dos Santos, M. Carrasco, J. Gut, P. J. Rosenthal, R. Moreira, F. Lopes; Design, synthesis and Structure Activity-Relationships of (1H-pyridin-4-ylidene)amines as potential antimalarials. *Bioorg. Med. Chem. Lett.* **2009**, *19*, 3476-3480. [link](https://www.sciencedirect.com/science/article/abs/pii/S0960894X09006921?via%3Dihub)
+**3\.** **T. Rodrigues**, R. C. Guedes, D. J. V. A. dos Santos, M. Carrasco, J. Gut, P. J. Rosenthal, R. Moreira, F. Lopes; Design, synthesis and Structure Activity-Relationships of (1H-pyridin-4-ylidene)amines as potential antimalarials. *Bioorg. Med. Chem. Lett.* **2009**, *19*, 3476-3480. [link](https://www.sciencedirect.com/science/article/abs/pii/S0960894X09006921?via%3Dihub)
 <br />
 
-**T. Rodrigues**, R. Moreira, B. Dacunha-Marinho, F. Lopes; Bis{(E)-3-[(diethylmethylammonio)methyl]-N-[3-(N,N-dimethylsulfamoyl)-1-methylpyridin-4-ylidene]-4-methoxyanilinium} tetraiodide pentahydrate. *Acta Cryst. E* **2009**, *E65*, o283-o284. [link](http://scripts.iucr.org/cgi-bin/paper?S1600536809000324)
+**2\.** **T. Rodrigues**, R. Moreira, B. Dacunha-Marinho, F. Lopes; Bis{(E)-3-[(diethylmethylammonio)methyl]-N-[3-(N,N-dimethylsulfamoyl)-1-methylpyridin-4-ylidene]-4-methoxyanilinium} tetraiodide pentahydrate. *Acta Cryst. E* **2009**, *E65*, o283-o284. [link](http://scripts.iucr.org/cgi-bin/paper?S1600536809000324)
 <br />
 
-1\. **T. Rodrigues**, R. Moreira, R. C. Guedes, J. Iley, F. Lopes; Unanticipated Acyloxymethylation of Sumatriptan Indole Nitrogen Atom and its Implications in Prodrug Design. *Arch. Pharm. Chem. Life Sci.* **2008**, *341*, 344-350. [link](https://onlinelibrary.wiley.com/doi/10.1002/ardp.200700250)
+**1\.** **T. Rodrigues**, R. Moreira, R. C. Guedes, J. Iley, F. Lopes; Unanticipated Acyloxymethylation of Sumatriptan Indole Nitrogen Atom and its Implications in Prodrug Design. *Arch. Pharm. Chem. Life Sci.* **2008**, *341*, 344-350. [link](https://onlinelibrary.wiley.com/doi/10.1002/ardp.200700250)
