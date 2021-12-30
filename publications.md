@@ -69,8 +69,6 @@ J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. 
 - highlighted in Público, GEN, ecancer, Technology networks, News Medical, Sciencemag, Physorg.com, Newswise, Mirage, Sciencenewsnet, EurekAlert! (21.04.2021)
 - technology yielded TargTex S.A.
 
-<br />
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
