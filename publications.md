@@ -23,7 +23,7 @@ S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Cond
 - \*equal contribution
 - selected for cover art
 <br />
-![ACS Nano 2021 TOC](_images/TOC_ACSNano_2021)
+![ACS Nano 2021 TOC](_images/TOC_ACSNano_2021.gif)
 <br />
 
 A. F. Almeida, F. A. P. Ataíde, R. M. S. Loureiro, R. Moreira, **T. Rodrigues**\*; Augmenting adaptive machine learning with kinetic modelling for reaction optimization. *J. Org. Chem.* **2021**, *86*, 14192-14198. [link](https://pubs.acs.org/doi/10.1021/acs.joc.1c01038)
