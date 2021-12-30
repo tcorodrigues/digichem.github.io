@@ -79,6 +79,9 @@ J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. 
 - highlighted in EurekAlert! (21.04.2021)
 - technology yielded TargTex S.A.
 
+![TOC >](https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
 </p>
