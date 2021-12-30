@@ -17,7 +17,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 **63\.** K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, **T. Rodrigues**, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle; Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation. *J. Med. Chem.* **2021**, *64*, 11496-11526. [link](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806)
 
 
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_JMedChem_2021.png" alt="toco" width="400"></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_JMedChem_2021.png" alt="toc" width="400"></p>
 
 <br />
 
@@ -27,9 +27,8 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 - selected for cover art
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSNano_2021.png" alt="toc" width="400">
-</p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSNano_2021.png" alt="toc" width="400"></p>
+
 
 <br />
 
@@ -37,18 +36,15 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 - Invited contribution to the “Enabling Techniques for Organic Synthesis” issue
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_JOC_2021.gif" alt="toc" width="400">
-</p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_JOC_2021.gif" alt="toc" width="400"></p>
+
 
 <br />
 
 **60\.** K. Lee, A. Yang, Y.-C. Lin\*, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Combating small molecule aggregation with machine learning. *Cell Rep. Phys. Sci.* **2021**, *2*, 100573. [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(21)00288-5)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_CRPS_2021.png" alt="toc" width="200">
-</p>
 
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_CRPS_2021.png" alt="toc" width="200"></p>
 
 <br />
 
@@ -58,10 +54,8 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 - highlighted in Público, GEN, ecancer, Technology networks, News Medical, Sciencemag, Physorg.com, Newswise, Mirage, Sciencenewsnet, EurekAlert! (21.04.2021)
 - technology yielded [TargTex S.A](https://targtex.com/).
 
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400"></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
-</p>
 
 <br />
 <br />
