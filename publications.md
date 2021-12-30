@@ -18,8 +18,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 </a></p>
 
 
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Matter_2021.png" style='border:2px solid #1c8cc8' alt="toc" width="400"></p>
-
 
 <br />
 
