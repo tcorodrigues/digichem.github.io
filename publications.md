@@ -24,6 +24,13 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_JMedChem_2021.png" alt="toco" width="400"></p>
+
+
+
+
+
+
 **62\.** S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Conde; Facts and Figures on Materials Science and Nanotechnology Progress and Investment. *ACS Nano* **2021**, *15*, 15940-15952. [link](https://pubs.acs.org/doi/10.1021/acsnano.1c03992)
 - \*equal contribution
 - selected for cover art
