@@ -7,7 +7,7 @@ title: ""
 
 <br />
 
-The **Digital Chemistry (DigiChem)** Lab focuses on accelerating discoveries in the chemical sciences with the aid of computers.
+The **Digital Chemistry (DigiChem) Lab** focuses on accelerating discoveries in the chemical sciences with the aid of computers.
 
 <br />
 
