@@ -64,8 +64,6 @@ K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Co
 <br />
 
 
-
-
 J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. Sousa, M. C. Marques, B. P. de Almeida, S. Lee, E. P. Leites, D. Picard, A. Samanta, S. H. Vaz, F. Sieglitz, M. Langini, M. Remke, R. Roque, T. Weiss, M. Weller, Y. Liu, S. Han, F. Corzana, V. A. Morais, C. C. Faria, T. Carvalho, P. Filippakopoulos, B. Snijder, N. L. Barbosa-Morais, V. Y. Moiseenkova-Bell, Gonçalo J. L. Bernardes; Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression. *ACS Cent. Sci.* **2021**, *7*, 868-881. [link](https://pubs.acs.org/doi/10.1021/acscentsci.1c00070)
 - \*equal contribution
 - highlighted in Público (21.04.2021)
@@ -80,6 +78,11 @@ J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. 
 - highlighted in Sciencenewsnet (21.04.2021)
 - highlighted in EurekAlert! (21.04.2021)
 - technology yielded TargTex S.A.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
+</p>
+
 <br />
 <br />
 <br />
