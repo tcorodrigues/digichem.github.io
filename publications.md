@@ -13,7 +13,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 **64\.** A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde\*, **T. Rodrigues**\*; Machine learning for next generation nanotechlonology in healthcare. *Matter* **2021**, *4*, 3078-3080. [link](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
 
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Matter_2021.png" alt="toc" width="400"></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Matter_2021.png" border="1" alt="toc" width="400"></p>
 
 
 <br />
