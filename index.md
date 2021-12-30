@@ -2,9 +2,10 @@
 layout: page
 title: ""
 ---
-<br />
 
 ## Welcome to the Digital Chemistry Lab!
+
+<br />
 
 The **Digital Chemistry (DigiChem)** Lab focuses on accelerating discoveries in the broad realm of chemical sciences with the aid of computers.
 
