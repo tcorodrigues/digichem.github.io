@@ -85,7 +85,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **56\.** **T. Rodrigues**\*; The good, the bad, and the ugly in chemical and biological data for machine learning. *Drug Discov. Today: Technol.* **2019**, *32-33*, 3-8. [link](https://www.sciencedirect.com/science/article/pii/S1740674920300068?via%3Dihub)
-- \*corresponding author
 - highlighted in Practical Cheminformatics (18.01.2021)
 <br />
 
