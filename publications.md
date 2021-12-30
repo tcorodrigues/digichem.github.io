@@ -6,6 +6,9 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 **65\.** **T. Rodrigues**\*; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, doi: 10.1016/j.chempr.2021.12.006 [link](https://www.sciencedirect.com/journal/chem)
 
+<p style="text-align:center;"><a href="https://www.sciencedirect.com/journal/chem">
+<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg" style='border:2px solid #1c8cc8' alt="toc" width="400">
+</a></p>
 
 
 <br />
