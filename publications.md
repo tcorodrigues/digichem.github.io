@@ -24,6 +24,13 @@ S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Cond
 - selected for cover art
 <br />
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSNano_2021.png" alt="toc"/>
+</p>
+
+
+
 ![toc](https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSNano_2021.png)
 
 <br />
