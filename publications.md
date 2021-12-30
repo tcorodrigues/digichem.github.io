@@ -5,15 +5,13 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 ### <span style = 'color:blue'>**2022**</span>
 
 **65\.** **T. Rodrigues**\*; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
-- \*corresponding author
 <br />
 <br />
 <br />
 
 ### <span style = 'color:blue'>**2021**</span>
 
-**64\.** A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde, **T. Rodrigues**\*; Machine learning for next generation nanotechlonology in healthcare. *Matter* **2021**, *4*, 3078-3080. [link](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
-- \*co-corresponding author
+**64\.** A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde\*, **T. Rodrigues**\*; Machine learning for next generation nanotechlonology in healthcare. *Matter* **2021**, *4*, 3078-3080. [link](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
 <br />
 
 **63\.** K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, **T. Rodrigues**, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle; Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation. *J. Med. Chem.* **2021**, *64*, 11496-11526. [link](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806)
@@ -37,8 +35,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 <br />
 
-**61\.** A. F. Almeida, F. A. P. Ataíde, R. M. S. Loureiro, R. Moreira, **T. Rodrigues**\*; Augmenting adaptive machine learning with kinetic modelling for reaction optimization. *J. Org. Chem.* **2021**, *86*, 14192-14198. [link](https://pubs.acs.org/doi/10.1021/acs.joc.1c01038)
-- \*corresponding author
+**61\.** A. F. Almeida, F. A. P. Ataíde\*, R. M. S. Loureiro, R. Moreira, **T. Rodrigues**\*; Augmenting adaptive machine learning with kinetic modelling for reaction optimization. *J. Org. Chem.* **2021**, *86*, 14192-14198. [link](https://pubs.acs.org/doi/10.1021/acs.joc.1c01038)
 - Invited contribution to the “Enabling Techniques for Organic Synthesis” issue
 
 
@@ -48,8 +45,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 <br />
 
-**60\.** K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Combating small molecule aggregation with machine learning. *Cell Rep. Phys. Sci.* **2021**, *2*, 100573. [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(21)00288-5)
-- \*corresponding author
+**60\.** K. Lee, A. Yang, Y.-C. Lin\*, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Combating small molecule aggregation with machine learning. *Cell Rep. Phys. Sci.* **2021**, *2*, 100573. [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(21)00288-5)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_CRPS_2021.png" alt="toc" width="200">
@@ -75,8 +71,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 ### <span style = 'color:blue'>**2020**</span>
 
-**58\.** D. Reker, Emily A. Hoyt, G. J. L. Bernardes, T. **Rodrigues**\*; Adaptive optimization of chemical reactions with minimal experimental information. *Cell Rep. Phys. Sci.* **2020**, *1*, 100247. [link](https://www.sciencedirect.com/science/article/pii/S2666386420302654)
-- \*corresponding author
+**58\.** D. Reker, Emily A. Hoyt, G. J. L. Bernardes\*, T. **Rodrigues**\*; Adaptive optimization of chemical reactions with minimal experimental information. *Cell Rep. Phys. Sci.* **2020**, *1*, 100247. [link](https://www.sciencedirect.com/science/article/pii/S2666386420302654)
 - highlighted in Computational Chemistry Highlights blog (30.11.2018)
 - highlighted in Proteins and Wave Functions (10.01.2019)
 - highlighted in Chemistry World (12.11.2020) 
@@ -101,8 +96,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 - highlighted in Nature Reviews Endocrinology (27.05.2020)
 <br />
 
-**53\.** **T. Rodrigues**\*, G. J. L. Bernardes; Machine learning for target discovery in drug development. *Curr. Opin. Chem. Biol.* **2020**, *56*, 16-22. [link](https://www.sciencedirect.com/science/article/abs/pii/S1367593119301140)
-- \*corresponding author
+**53\.** **T. Rodrigues**\*, G. J. L. Bernardes\*; Machine learning for target discovery in drug development. *Curr. Opin. Chem. Biol.* **2020**, *56*, 16-22. [link](https://www.sciencedirect.com/science/article/abs/pii/S1367593119301140)
 <br />
 <br />
 <br />
@@ -113,19 +107,16 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **51\.** A. Filipa de Almeida, R. Moreira, **T. Rodrigues**\*; Synthetic organic chemistry driven by artificial intelligence. *Nat. Rev. Chem.* **2019**, *3*, 589-604.[link](https://www.nature.com/articles/s41570-019-0124-0)
-- \*corresponding author
 - highlighted in Scale blog (27.08.2019)
 <br />
 
-**50\.** **T. Rodrigues**\*, B. P. de Almeida, N. L. Barbosa-Morais, G. J. L. Bernardes; Dissecting celastrol with machine learning to unveil dark pharmacology. *Chem. Commun.* **2019**, *55*, 6369-6372. [link](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc03116b)
-- \*corresponding author
+**50\.** **T. Rodrigues**\*, B. P. de Almeida, N. L. Barbosa-Morais, G. J. L. Bernardes\*; Dissecting celastrol with machine learning to unveil dark pharmacology. *Chem. Commun.* **2019**, *55*, 6369-6372. [link](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc03116b)
 <br />
 
 **49\.** C. Baker, **T. Rodrigues**, B. P. de Almeida, N. Barbosa-Morais, G. J. L. Bernardes; Natural product–drug conjugates for modulation of TRPV1-expressing tumors. *Bioorg. Med. Chem.* **2019**, *27*, 2531-2536. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968089619302512?via%3Dihub)
 <br />
 
 **48\.** D. Reker\*, G. J. L. Bernardes, **T. Rodrigues**\*; Computational advances in combating colloidal aggregation in drug discovery. *Nat. Chem.* **2019**, *11*, 402-418. [link](https://www.nature.com/articles/s41557-019-0234-9)
-- \*corresponding author
 <br />
 <br />
 <br />
@@ -136,7 +127,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **46\.** **T. Rodrigues**\*, M. Werner, J. Roth, E. H. G. da Cruz, M. C. Marques, S. A. Lobo, A. Koeberle, F. Corzana, E. N. da Silva Júnior, O. Werz, G. J. L. Bernardes\*; Machine intelligence decrypts β-lapachone as an allosteric 5-lipoxygenase inhibitor. *Chem. Sci.* **2018**, *9*, 6899-6903. [link](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc02634c)
-- \*corresponding author
 - selected as hot article
 - highlighted in Chemistry World (26.07.2018)
 - interviewed on National TV December (Sic Notíias) 2018
@@ -144,7 +134,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **45\.** **T. Rodrigues**\*, G. J. L. Bernardes\*; Development of antibody-directed therapies: quo vadis? *Angew. Chem. Int. Ed.* **2018**, *57*, 2032-2034. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201712185)
-- \*corresponding author
 <br />
 <br />
 <br />
@@ -155,7 +144,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **43\.** **T. Rodrigues**\*; Harnessing the potential of natural products in drug discovery from a cheminformatics vantage point. *Org. Biomol. Chem.* **2017**, *15*, 9275-9282. [link](https://pubs.rsc.org/en/content/articlelanding/2017/ob/c7ob02193c)
-- \*corresponding author
 - selected as Hot article
 - Invited contribution
 <br />
@@ -175,7 +163,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **39\.** **T. Rodrigues**\*, F. Sieglitz, V. J. Somovilla, P. M. S. D. Cal, A. Galione, F. Corzana\*, G. J. L. Bernardes\*; Unveiling (-)-englerin A as a L-type calcium channel modulator. *Angew. Chem. Int. Ed.* **2016**, *55*, 11077-11081.[link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201604336)
-- \*corresponding author
 <br />
 
 **38\.** L. Friedrich, **T. Rodrigues**, P. Schneider, G. Schneider; From complex natural products to simple synthetic mimetics by computational de novo design. *Angew. Chem. Int. Ed.* **2016**, *55*, 6789-6792. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201601941)
@@ -260,7 +247,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **19\.** **T. Rodrigues**\*, A. S. Ressurreição, F. P. da Cruz, I. S. Albuquerque, J. Gut, M. P. Carrasco, D. Gonçalves, R. C. Guedes, D. J. V. A. dos Santos, M. M. Mota, P. J. Rosenthal, R. Moreira, M. Prudêncio, F. Lopes; Flavones as isosteres of 4(1H)-quinolones: discovery of ligand efficient and dual stage antimalarial lead compounds. *Eur. J. Med. Chem.* **2013**, *69*, 872-880. [link](https://www.sciencedirect.com/science/article/abs/pii/S0223523413005801)
-- \*corresponding author
 <br />
 
 **18\.** **T. Rodrigues**, T. Kudoh, F. Roudnicky, Y. F. Lim, Y.-C. Lin, C. P. Koch, M. Seno, M. Detmar, G. Schneider; Steering target selectivity and potency by fragment-based de novo drug design. *Angew. Chem. Int. Ed.* **2013**, *52*, 10006-10009. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201304847)
@@ -272,7 +258,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **16\.** **T. Rodrigues**\*, F. P. da Cruz, Maria J. Lafuente-Monasterio, D. Gonçalves, A. S. Ressurreição, A. R. Sitoe, M. R. Bronze, J. Gut, G. Schneider, M. M. Mota, P. J. Rosenthal, M. Prudêncio, F.-J. Gamo, F. Lopes, R. Moreira; Quinolin-4(1H)-imines are Potent Antiplasmodial Drugs Targeting the Liver Stage of Malaria. *J. Med. Chem.* **2013**, *56*, 4811-4815. [link](https://pubs.acs.org/doi/10.1021/jm400246e)
-- \*corresponding author*
 <br />
 
 **15\.** M. Reutlinger, C. P. Koch, D. Reker, N. Todoroff, P. Schneider, **T. Rodrigues**, G. Schneider; Chemically advanced template search (CATS) for scaffold-hopping and prospective target prediction for 'orphan' molecules. *Mol. Inf.* **2013**, *32*, 133-138. [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.201200141)
@@ -306,7 +291,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 
 **6\.** **T. Rodrigues**\*, R. Moreira, F. Lopes; New hope in the fight against malaria?. *Future Med. Chem.* **2011**, *3*, 1-3. [link](https://www.future-science.com/doi/10.4155/fmc.10.274)
-- \*corresponding author
 - Invited editorial
 <br />
 
