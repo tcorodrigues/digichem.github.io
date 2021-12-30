@@ -58,7 +58,7 @@ K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Co
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_CRPS_2021.png" alt="toc" width="300">
+  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_CRPS_2021.png" alt="toc" width="200">
 </p>
 
 
