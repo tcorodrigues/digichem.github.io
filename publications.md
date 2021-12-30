@@ -29,29 +29,24 @@ K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua,
 S. Talebian\*, **T. Rodrigues**\*, J. das Neves, B. Sarmento, R. Langer, J. Conde; Facts and Figures on Materials Science and Nanotechnology Progress and Investment. *ACS Nano* **2021**, *15*, 15940-15952. [link](https://pubs.acs.org/doi/10.1021/acsnano.1c03992)
 - \*equal contribution
 - selected for cover art
-<br />
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSNano_2021.png" alt="toc" width="400">
 </p>
 
-
 <br />
 
 A. F. Almeida, F. A. P. Ataíde, R. M. S. Loureiro, R. Moreira, **T. Rodrigues**\*; Augmenting adaptive machine learning with kinetic modelling for reaction optimization. *J. Org. Chem.* **2021**, *86*, 14192-14198. [link](https://pubs.acs.org/doi/10.1021/acs.joc.1c01038)
 - \*corresponding author
 - Invited contribution to the “Enabling Techniques for Organic Synthesis” issue
-<br />
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_JOC_2021.gif" alt="toc" width="400">
 </p>
 
-
 <br />
-
-
 
 K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Combating small molecule aggregation with machine learning. *Cell Rep. Phys. Sci.* **2021**, *2*, 100573. [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(21)00288-5)
 - \*corresponding author
