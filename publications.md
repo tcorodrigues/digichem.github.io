@@ -2,14 +2,14 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 <br />
-### <span style = 'color:#1c8cc8 '>**2022**</span>
+### <span style = 'color:#1c8cc8'>**2022**</span>
 
 **65\.** **T. Rodrigues**\*; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, *accepted*
 <br />
 <br />
 <br />
 
-### <span style = 'color:blue'>**2021**</span>
+### <span style = 'color:#1c8cc8'>**2021**</span>
 
 **64\.** A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde\*, **T. Rodrigues**\*; Machine learning for next generation nanotechlonology in healthcare. *Matter* **2021**, *4*, 3078-3080. [link](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
 
@@ -65,7 +65,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 
-### <span style = 'color:blue'>**2020**</span>
+### <span style = 'color:#1c8cc8'>**2020**</span>
 
 **58\.** D. Reker, Emily A. Hoyt, G. J. L. Bernardes\*, T. **Rodrigues**\*; Adaptive optimization of chemical reactions with minimal experimental information. *Cell Rep. Phys. Sci.* **2020**, *1*, 100247. [link](https://www.sciencedirect.com/science/article/pii/S2666386420302654)
 - highlighted in Computational Chemistry Highlights blog (30.11.2018)
@@ -96,7 +96,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 
-### <span style = 'color:blue'>**2019**</span>
+### <span style = 'color:#1c8cc8'>**2019**</span>
 
 **52\.** R. Traquete, E. Henderson, S. Picaud, P. M. S. D. Cal, F. Sieglitz, **T. Rodrigues**, R. Oliveira, P. Filippakopoulus, G. J. L. Bernardes; Evaluation of linker length effects on a BET bromodomain probe. *Chem. Commun.* **2019**, *55*, 10128-10131. [link](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc05054j)
 <br />
@@ -116,7 +116,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 
-### <span style = 'color:blue'>**2018**</span>
+### <span style = 'color:#1c8cc8'>**2018**</span>
 
 **47\.** L. Robke, **T. Rodrigues**, P. Schröder, D. J. Foley, G. J. L. Bernardes, L. Laraia, H. Waldmann; Discovery of 2,4-dimethoxypyridines as novel autophagy inhibitors. *Tetrahedron* **2018**, *74*, 4531-4537. [link](https://www.sciencedirect.com/science/article/abs/pii/S0040402018308421?via%3Dihub)
 <br />
@@ -133,7 +133,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 
-### <span style = 'color:blue'>**2017**</span>
+### <span style = 'color:#1c8cc8'>**2017**</span>
 
 **44\.** A. Freedy, M. Matos, O. Boutureira, F. Corzana, A. Guerreiro, P. Akkapeddi, V. Somovilla, **T. Rodrigues**, K. Nicholls, B. Xie, G. Jiménez-Osés, K. Brindle, A. Neves, G. Bernardes; Chemoselective installation of amine bonds on proteins through aza-Michael ligation. *J. Am. Chem. Soc.* **2017**, *139*, 18365-18375. [link](https://pubs.acs.org/doi/10.1021/jacs.7b10702)
 <br />
@@ -152,7 +152,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 
-### <span style = 'color:blue'>**2016**</span>
+### <span style = 'color:#1c8cc8'>**2016**</span>
 
 **40\.** **T. Rodrigues**, G. J. L. Bernardes; Antibody-drug conjugates: The missing link. *Nat. Chem.* **2016**, *8*, 1088-1090. [link](https://www.nature.com/articles/nchem.2685)
 <br />
@@ -175,7 +175,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 
-### <span style = 'color:blue'>**2015**</span>
+### <span style = 'color:#1c8cc8'>**2015**</span>
 
 **34\.** **T. Rodrigues**, D. Reker, M. Welin, M. Caldera, C. Brunner, G. Bagernet, P. Schneider, B. Walse, G. Schneider; De novo fragment design for drug discovery and chemical biology. *Angew. Chem. Int. Ed.* **2015**, *54*, 15079-15083. [link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201508055)
 - selected as Very Important Paper
@@ -199,7 +199,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 
-### <span style = 'color:blue'>**Prior to 2015**</span>
+### <span style = 'color:#1c8cc8'>**Prior to 2015**</span>
 
 **29\.** D. Reker, A. M. Perna, **T. Rodrigues**, P. Schneider, M. Reutlinger, B. Mönch, A. Koeberle, C. Lamers, M. Gabler, H. Steinmetz, R. Müller, M. Schubert-Zsilavecz, O. Werz, G. Schneider; Revealing the macromolecular targets of complex natural products. *Nat. Chem.* **2014**, *6*, 1072-1078. [link](https://www.nature.com/articles/nchem.2095)
 - highlighted in ETH Life, Science Daily, Physorg.com, EurekAlert! (12.11.2014)
