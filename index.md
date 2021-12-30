@@ -1,5 +1,3 @@
-<br />
-
 ---
 layout: page
 title: "Welcome to the Digital Chemistry Lab!"
