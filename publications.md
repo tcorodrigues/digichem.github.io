@@ -84,8 +84,7 @@ J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. 
 
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400">
-<b>isomorphism</b>  &rarr;  
+<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400"> 
 - \*equal contribution
 - highlighted in Público (21.04.2021)
 - highlighted in GEN (21.04.2021)
