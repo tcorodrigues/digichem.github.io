@@ -66,45 +66,10 @@ K. Lee, A. Yang, Y.-C. Lin, D. Reker, G. J. L. Bernardes, **T. Rodrigues**\*; Co
 
 J. Conde\*, R. A. Pumroy\*, C. Baker\*, **T. Rodrigues**\*, A. Guerreiro, B. B. Sousa, M. C. Marques, B. P. de Almeida, S. Lee, E. P. Leites, D. Picard, A. Samanta, S. H. Vaz, F. Sieglitz, M. Langini, M. Remke, R. Roque, T. Weiss, M. Weller, Y. Liu, S. Han, F. Corzana, V. A. Morais, C. C. Faria, T. Carvalho, P. Filippakopoulos, B. Snijder, N. L. Barbosa-Morais, V. Y. Moiseenkova-Bell, Gonçalo J. L. Bernardes; Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression. *ACS Cent. Sci.* **2021**, *7*, 868-881. [link](https://pubs.acs.org/doi/10.1021/acscentsci.1c00070)
 - \*equal contribution
-- highlighted in Público (21.04.2021)
-- highlighted in GEN (21.04.2021)
-- highlighted in ecancer (21.04.2021)
-- highlighted in Technology networks (21.04.2021)
-- highlighted in News Medical (21.04.2021)
-- highlighted in Sciencemag (21.04.2021)
-- highlighted in Physorg.com (21.04.2021)
-- highlighted in Newswise (21.04.2021)
-- highlighted in Mirage (21.04.2021)
-- highlighted in Sciencenewsnet (21.04.2021)
-- highlighted in EurekAlert! (21.04.2021)
+- highlighted in Público, GEN, ecancer, Technology networks, News Medical, Sciencemag, Physorg.com, Newswise, Mirage, Sciencenewsnet, EurekAlert! (21.04.2021)
 - technology yielded TargTex S.A.
 
 <br />
-
-
-<div class="warning">
-<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_ACSCentSci_2021.jpeg" alt="toc" width="400"> 
-- \*equal contribution
-- highlighted in Público (21.04.2021)
-- highlighted in GEN (21.04.2021)
-- highlighted in ecancer (21.04.2021)
-- highlighted in Technology networks (21.04.2021)
-- highlighted in News Medical (21.04.2021)
-- highlighted in Sciencemag (21.04.2021)
-- highlighted in Physorg.com (21.04.2021)
-- highlighted in Newswise (21.04.2021)
-- highlighted in Mirage (21.04.2021)
-- highlighted in Sciencenewsnet (21.04.2021)
-- highlighted in EurekAlert! (21.04.2021)
-- technology yielded TargTex S.A.<br>
-</p>
-</div>
-
-
-
-
-
 
 
 <p align="center">
