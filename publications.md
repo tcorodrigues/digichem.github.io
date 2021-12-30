@@ -328,4 +328,4 @@ A. Klenner, V. Hähnke, T. Geppert, P. Schneider, H. Zettl, S. Haller, **T. Rodr
 **T. Rodrigues**, R. Moreira, B. Dacunha-Marinho, F. Lopes; Bis{(E)-3-[(diethylmethylammonio)methyl]-N-[3-(N,N-dimethylsulfamoyl)-1-methylpyridin-4-ylidene]-4-methoxyanilinium} tetraiodide pentahydrate. *Acta Cryst. E* **2009**, *E65*, o283-o284. [link](http://scripts.iucr.org/cgi-bin/paper?S1600536809000324)
 <br />
 
-**T. Rodrigues**, R. Moreira, R. C. Guedes, J. Iley, F. Lopes; Unanticipated Acyloxymethylation of Sumatriptan Indole Nitrogen Atom and its Implications in Prodrug Design. *Arch. Pharm. Chem. Life Sci.* **2008**, *341*, 344-350. [link](https://onlinelibrary.wiley.com/doi/10.1002/ardp.200700250)
+1\. **T. Rodrigues**, R. Moreira, R. C. Guedes, J. Iley, F. Lopes; Unanticipated Acyloxymethylation of Sumatriptan Indole Nitrogen Atom and its Implications in Prodrug Design. *Arch. Pharm. Chem. Life Sci.* **2008**, *341*, 344-350. [link](https://onlinelibrary.wiley.com/doi/10.1002/ardp.200700250)
