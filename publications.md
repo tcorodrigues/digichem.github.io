@@ -4,8 +4,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
-**65\.** **T. Rodrigues**\*; Deriving intuition in catalyst design with machine learning. *Chem* **2022**, doi: 10.1016/j.chempr.2021.12.006 [link](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
-
 **65\. Deriving intuition in catalyst design with machine learning** <br />
 **T. Rodrigues**\* <br />
 [*Chem* **2022**, doi: 10.1016/j.chempr.2021.12.006](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
@@ -21,17 +19,19 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 ### <span style = 'color:#1c8cc8'>**2021**</span>
 
-**64\.** A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde\*, **T. Rodrigues**\*; Machine learning for next generation nanotechlonology in healthcare. *Matter* **2021**, *4*, 3078-3080. [link](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
+**64\. Machine learning for next generation nanotechlonology in healthcare** <br />
+A. Lorenc, B. B. Mendes, J. Conniot, D. P. Sousa, J. Conde\*, **T. Rodrigues**\* <br />
+[*Matter* **2021**, *4*, 3078-3080](https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8)
 
 <p style="text-align:center;"><a href="https://www.cell.com/matter/fulltext/S2590-2385(21)00459-8">
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Matter_2021.png" style='border:2px solid #1c8cc8' alt="toc" width="400">
 </a></p>
 
-
-
 <br />
 
-**63\.** K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, **T. Rodrigues**, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle; Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation. *J. Med. Chem.* **2021**, *64*, 11496-11526. [link](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806)
+**63\. Exploration of long-chain vitamin E metabolites for the discovery of a highly potent, orally effective and metabolically stable 5-LOX inhibitor that limits inflammation** <br />
+K. Neukirch, K. Alsabil, C.-P. Dinh, R. Bilancia, M Raasch, A. Ville, I. Cerqua, G. Viault, D. Bréard, S. Pace, V. Temml, E. Brunner, P. Jordan, M. Marques, K. Loeser, A. Gollowitzer, S. Permann, J. Gerstmeier, S. Lorkowski, H. Stuppner, U. Garscha, **T. Rodrigues**, G. Bernardes, D. Schuster, D. Seraphin, P. Richomme, A. Rossi, A. S. Mosig, F. Roviezzo, O. Werz, J.-J. Helesbeux, A Koeberle <br />
+[*J. Med. Chem.* **2021**, *64*, 11496-11526](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806)
 
 <p style="text-align:center;"><a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00806">
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_JMedChem_2021.png" style='border:2px solid #1c8cc8' alt="toc" width="400">
