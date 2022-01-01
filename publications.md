@@ -184,7 +184,7 @@ L. Robke, **T. Rodrigues**, P. Schröder, D. J. Foley, G. J. L. Bernardes, L. La
 [*Chem. Sci.* **2018**, *9*, 6899-6903](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc02634c)
 - selected as hot article
 - highlighted in Chemistry World (26.07.2018)
-- interviewed on National TV December (Sic Notíias) 2018
+- interviewed on National TV December (Sic Notícias) 2018
 - Exame Informática Award in “Software” category
 <br />
 
@@ -365,8 +365,8 @@ M. Reutlinger, **T. Rodrigues**, P. Schneider, G. Schneider <br />
 - highlighted in the Chimia issue of December 2013
 <br />
 
-**17\. Exploring the Molecular Basis of Qo bc1 Complex Inhibitors Activity to Find Novel Antimalarials Hits**
-M. P. Carrasco, J. Gut, **T. Rodrigues**, F. Lopes, P. J. Rosenthal, R. Moreira, D. J. V. A. dos Santos
+**17\. Exploring the Molecular Basis of Qo bc1 Complex Inhibitors Activity to Find Novel Antimalarials Hits** <br />
+M. P. Carrasco, J. Gut, **T. Rodrigues**, F. Lopes, P. J. Rosenthal, R. Moreira, D. J. V. A. dos Santos <br />
 [*Mol. Inf.* **2013**, *32*, 659-670](https://onlinelibrary.wiley.com/doi/10.1002/minf.201300024)
 <br />
 
@@ -412,8 +412,8 @@ A. Klenner, V. Hähnke, T. Geppert, P. Schneider, H. Zettl, S. Haller, **T. Rodr
 [*Mol. Inf.* **2012**, *31*, 21-26](https://onlinelibrary.wiley.com/doi/10.1002/minf.201100147)
 <br />
 
-**8\. Microwave-assisted Wittig reaction of semistabilized nitro-substituted benzyltriphenyl-phosphorous ylides with aldehydes in phase-transfer conditions**
-**T. Rodrigues**, F. Lopes, R. Moreira
+**8\. Microwave-assisted Wittig reaction of semistabilized nitro-substituted benzyltriphenyl-phosphorous ylides with aldehydes in phase-transfer conditions** <br />
+**T. Rodrigues**, F. Lopes, R. Moreira <br />
 [*Synth. Commun.* **2012**, *42*, 747-755](https://www.tandfonline.com/doi/abs/10.1080/00397911.2010.530378)
 <br />
 
