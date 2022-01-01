@@ -259,8 +259,8 @@ M. Bieler, M. Reutlinger, **T. Rodrigues**, P. Schneider, J. M. Kriegl, G. Schne
 
 ### <span style = 'color:#1c8cc8'>**2015**</span>
 
-**34\. De novo fragment design for drug discovery and chemical biology** br />
-**T. Rodrigues**, D. Reker, M. Welin, M. Caldera, C. Brunner, G. Bagernet, P. Schneider, B. Walse, G. Schneider br />
+**34\. De novo fragment design for drug discovery and chemical biology** <br />
+**T. Rodrigues**, D. Reker, M. Welin, M. Caldera, C. Brunner, G. Bagernet, P. Schneider, B. Walse, G. Schneider <br />
 [*Angew. Chem. Int. Ed.* **2015**, *54*, 15079-15083](https://onlinelibrary.wiley.com/doi/10.1002/anie.201508055)
 - selected as Very Important Paper
 - highlighted in “In The Pipeline” (2.11.2015)
