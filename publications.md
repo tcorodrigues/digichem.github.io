@@ -188,7 +188,7 @@ L. Robke, **T. Rodrigues**, P. Schröder, D. J. Foley, G. J. L. Bernardes, L. La
 - Exame Informática Award in “Software” category
 <br />
 
-**45\. Development of antibody-directed therapies: quo vadis? ** <br />
+**45\. Development of antibody-directed therapies: quo vadis?** <br />
 **T. Rodrigues**\*, G. J. L. Bernardes\* <br />
 [*Angew. Chem. Int. Ed.* **2018**, *57*, 2032-2034](https://onlinelibrary.wiley.com/doi/10.1002/anie.201712185)
 <br />
