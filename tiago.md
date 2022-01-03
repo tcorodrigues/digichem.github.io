@@ -19,7 +19,7 @@ h2 span{
 
 h2 img{
    float: left;        
-}​
+}
 
 
 
