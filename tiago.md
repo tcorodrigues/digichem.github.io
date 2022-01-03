@@ -1,8 +1,8 @@
 
-<h2>
-    <img src="http://placekitten.com/g/200/200" height="75px" height="200px" width="200px" border="1px"> 
+<div>
+    <img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"> 
     <span>some text text text text</span>
-</h2>
+</div>
 
 
 
