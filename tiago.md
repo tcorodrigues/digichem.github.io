@@ -1,5 +1,7 @@
-<img style="float: left;" src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg">
 
-| ![Flowers](https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_CRPS_2021.png) | I am text to the right |
 
+<div>
+    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
 
