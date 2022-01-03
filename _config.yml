@@ -19,7 +19,7 @@ show_social: true
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research", file: "research.md"}
   - {title: "Publications", file: "publications.md"}
-  - {title: "About Tiago", file: "tiago.html"}
+  - {title: "About Tiago", file: "tiago.md"}
   - {title: "Group Members", file: "group_members.md"}
   - {title: "News", file: "news.md"}
   
