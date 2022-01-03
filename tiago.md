@@ -6,21 +6,6 @@
 
 
 
-h2{
-  overflow: auto;    
-}
-
-h2 span{
-
-   float: left;
-   margin-top: 10px;
-   margin-left: 10px;
-}
-
-h2 img{
-   float: left;        
-}
-
 
 
 <div>
