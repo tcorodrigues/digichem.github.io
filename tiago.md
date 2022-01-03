@@ -1,6 +1,38 @@
+<html>
+<head>
+<style>
+img {
+  float: right;
+  border: 0px;
+  margin: 0px 0px 15px 20px;
+}
+</style>
+</head>
+<body>
 
-<div>
-    <p style="float: left; padding-right: 10px";><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
+<h2>Biography</h2>
+
+<p>In the paragraph below, the image will float to the right. A dotted black border is added to the image. 
+We have also added margins to the image to push the text away from the image:
+0 px margin on the top and right side, 15 px margin on the bottom, and 20 px margin on the left side of the image.
+</p>
+
+<p><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_CRPS_2021.png" width="100" height="140">
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+This is some text. This is some text. This is some text.
+</p>
+
+</body>
+</html>
 
