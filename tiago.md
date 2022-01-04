@@ -30,19 +30,19 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <h2>Awards</h2>
 <br />
-2021	Selected as Organic & Biomolecular Chemistry New Talent
-2021	Selected as RSC Chemical Biology Emerging Investigator
-2021	Selected as ChemBioChem ChemBioTalent
-2021	Selected as ChemMedChem EuroMedChem Talents
-2021	Elected to attend the Young Investigator Workshop EuChemS Division of Chemistry in Life Sciences
-2019	“Os Melhores do Portugal Tecnológico” category Software, Exame Informática Magazine
-2014	Finalist in SPARK Award for best ETH patent 2014, ETH Zürich
-2013	Two best poster prizes, 9th German Conference on Chemoinformatics, Fulda
-2010	Bentham Travel Award (ISMC 2010), Bentham Publishers
-2007	Sociedade Farmacêutica Lusitana Award, Portuguese Pharmaceutical Association
-2006	Merit Award for outstanding academic performance, University of Lisbon
-2005	Merit Award for outstanding academic performance, University of Lisbon
-2004	Merit Award for outstanding academic performance, University of Lisbon	
+<b>2021</b>	Selected as Organic & Biomolecular Chemistry New Talent <br />
+<b>2021</b>	Selected as RSC Chemical Biology Emerging Investigator <br />
+<b>2021</b>	Selected as ChemBioChem ChemBioTalent <br />
+<b>2021</b>	Selected as ChemMedChem EuroMedChem Talents <br />
+<b>2021</b>	Elected to attend the Young Investigator Workshop EuChemS Division of Chemistry in Life Sciences <br />
+<b>2019</b>	“Os Melhores do Portugal Tecnológico” category Software, Exame Informática Magazine <br />
+<b>2014</b>	Finalist in SPARK Award for best ETH patent 2014, ETH Zürich <br />
+<b>2013</b>	Two best poster prizes, 9th German Conference on Chemoinformatics, Fulda <br />
+<b>2010</b>	Bentham Travel Award (ISMC 2010), Bentham Publishers <br />
+<b>2007</b>	Sociedade Farmacêutica Lusitana Award, Portuguese Pharmaceutical Association <br />
+<b>2006</b>	Merit Award for outstanding academic performance, University of Lisbon <br />
+<b>2005</b>	Merit Award for outstanding academic performance, University of Lisbon <br />
+<b>2004</b>	Merit Award for outstanding academic performance, University of Lisbon<br />
 
   
   
