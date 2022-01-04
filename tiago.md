@@ -40,9 +40,24 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <b>2007</b>	Sociedade Farmacêutica Lusitana Award, Portuguese Pharmaceutical Association <br />
 <b>2006</b>	Merit Award for outstanding academic performance, University of Lisbon <br />
 <b>2005</b>	Merit Award for outstanding academic performance, University of Lisbon <br />
-<b>2004</b>	Merit Award for outstanding academic performance, University of Lisbon<br />
+<b>2004</b>	Merit Award for outstanding academic performance, University of Lisbon <br />
+<br />
+<br />
+<br />
+<h2>Professional Activity</h2>
+<b>2022-present</b>   Assistant Professor at Faculty of Pharmacy, University of Lisbon. <br />
+<b>2020–present</b>   Group leader at Faculty of Pharmacy, University of Lisbon. <br />
+<b>2019–present</b>   Co-founder of TargTex S.A. <br />
+2019–2020	     Junior Group Leader at Instituto de Medicina Molecular, Portugal <br />
+2015–2020	     Visiting Assistantt Professor at Faculty of Pharmacy, University of Lisbon <br />
+2015–2019	     Visiting Scientist at University of Cambridge, UK <br />
+2015–2019	     Senior Scientist at Instituto de Medicina Molecular, Portugal <br />
+2012–2015	     Lecturer at ETH Zürich (D-CHAB, IPW) <br />
+2011–2015	     Postdoctoral researcher at ETH Zürich (D-CHAB, IPW) <br />
+2005–2009	     Instructor at the Faculty of Pharmacy, University of Lisbon <br />
 
-  
+
+
   
   
 </p>
