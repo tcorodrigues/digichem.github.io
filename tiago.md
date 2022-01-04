@@ -51,17 +51,19 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
   <tr>
     <td><b>2022–present</b></td>
     <td>Assistant Professor at Faculty of Pharmacy, University of Lisbon</td>
-    <td>300</td>
   </tr>
   <tr>
-    <td>400</td>
-    <td>500</td>
-    <td>600</td>
+    <td><b>2020–present</b></td>
+    <td>Group leader at Faculty of Pharmacy, University of Lisbon</td>
+  </tr>
+  <tr>
+    <td><b>2019–present</b></td>
+    <td>Co-founder of TargTex S.A.</td>
   </tr>
 </table>  
   
 
-<b>2022–present</b>   Assistant Professor at Faculty of Pharmacy, University of Lisbon <br />
+
 <b>2020–present</b>   Group leader at Faculty of Pharmacy, University of Lisbon <br />
 <b>2019–present</b>   Co-founder of TargTex S.A. <br />
 2019–2020	     Junior Group Leader at Instituto de Medicina Molecular, Portugal <br />
@@ -73,7 +75,7 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 2005–2009	     Instructor at the Faculty of Pharmacy, University of Lisbon <br />
 
 
-<p style="text-indent: 40px">This text is indented.</p>
+
   
   
 </p>
