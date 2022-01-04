@@ -27,11 +27,11 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <br />
 <br />
-<h2>Awards</h2>
-<b>2021</b>	Selected as Organic & Biomolecular Chemistry New Talent <br />
-<b>2021</b>	Selected as RSC Chemical Biology Emerging Investigator <br />
-<b>2021</b>	Selected as ChemBioChem ChemBioTalent <br />
-<b>2021</b>	Selected as ChemMedChem EuroMedChem Talents <br />
+<h2>Honours & Awards</h2>
+<b>2021</b>	Invited as <i>Organic & Biomolecular Chemistry</i> New Talent <br />
+<b>2021</b>	Invited as <i>RSC Chemical Biology</i> Emerging Investigator <br />
+<b>2021</b>	Invited as <i>ChemBioChem ChemBioTalent</i> <br />
+<b>2021</b>	Invited as <i>ChemMedChem EuroMedChem Talents</i> <br />
 <b>2021</b>	Elected to attend the Young Investigator Workshop EuChemS Division of Chemistry in Life Sciences <br />
 <b>2019</b>	“Os Melhores do Portugal Tecnológico” category Software, Exame Informática Magazine <br />
 <b>2014</b>	Finalist in SPARK Award for best ETH patent 2014, ETH Zürich <br />
