@@ -24,7 +24,29 @@ He has published >60 papers with >15 as senior or co-senior author (h-index 26),
 <br />
 <br />
 Outside science, Tiago is a tennis addict – having played competitively at national and international levels for >15 years – and a gamer.
+<br />
+<br />
+<br />
+<br />
+<h2>Awards</h2>
+<br />
+2021	Selected as Organic & Biomolecular Chemistry New Talent
+2021	Selected as RSC Chemical Biology Emerging Investigator
+2021	Selected as ChemBioChem ChemBioTalent
+2021	Selected as ChemMedChem EuroMedChem Talents
+2021	Elected to attend the Young Investigator Workshop EuChemS Division of Chemistry in Life Sciences
+2019	“Os Melhores do Portugal Tecnológico” category Software, Exame Informática Magazine
+2014	Finalist in SPARK Award for best ETH patent 2014, ETH Zürich
+2013	Two best poster prizes, 9th German Conference on Chemoinformatics, Fulda
+2010	Bentham Travel Award (ISMC 2010), Bentham Publishers
+2007	Sociedade Farmacêutica Lusitana Award, Portuguese Pharmaceutical Association
+2006	Merit Award for outstanding academic performance, University of Lisbon
+2005	Merit Award for outstanding academic performance, University of Lisbon
+2004	Merit Award for outstanding academic performance, University of Lisbon	
 
+  
+  
+  
 </p>
 
 </body>
