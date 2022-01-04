@@ -27,9 +27,7 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <br />
 <br />
-<br />
 <h2>Awards</h2>
-<br />
 <b>2021</b>	Selected as Organic & Biomolecular Chemistry New Talent <br />
 <b>2021</b>	Selected as RSC Chemical Biology Emerging Investigator <br />
 <b>2021</b>	Selected as ChemBioChem ChemBioTalent <br />
