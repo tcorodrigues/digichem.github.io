@@ -45,77 +45,22 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <br />
 <h2>Professional Activity</h2>
-  
-  
-<table>
-  <tr>
-    <td><b>2022–present</b></td>
-    <td>Assistant Professor at Faculty of Pharmacy, University of Lisbon</td>
-  </tr>
-  <tr>
-    <td><b>2020–present</b></td>
-    <td>Group leader at Faculty of Pharmacy, University of Lisbon</td>
-  </tr>
-  <tr>
-    <td><b>2019–present</b></td>
-    <td>Co-founder of TargTex S.A.</td>
-  </tr>
-</table>  
-  
-
-
+<b>2022–present</b>   Assistant Professor at Faculty of Pharmacy, University of Lisbon
 <b>2020–present</b>   Group leader at Faculty of Pharmacy, University of Lisbon <br />
 <b>2019–present</b>   Co-founder of TargTex S.A. <br />
-2019–2020	     Junior Group Leader at Instituto de Medicina Molecular, Portugal <br />
-2015–2020	     Visiting Assistantt Professor at Faculty of Pharmacy, University of Lisbon <br />
-2015–2019	     Visiting Scientist at University of Cambridge, UK <br />
-2015–2019	     Senior Scientist at Instituto de Medicina Molecular, Portugal <br />
-2012–2015	     Lecturer at ETH Zürich (D-CHAB, IPW) <br />
-2011–2015	     Postdoctoral researcher at ETH Zürich (D-CHAB, IPW) <br />
-2005–2009	     Instructor at the Faculty of Pharmacy, University of Lisbon <br />
+<b>2019–2020</b>	    Junior Group Leader at Instituto de Medicina Molecular, Portugal <br />
+<b>2015–2020</b>	    Visiting Assistantt Professor at Faculty of Pharmacy, University of Lisbon <br />
+<b>2015–2019</b>	    Visiting Scientist at University of Cambridge, UK <br />
+<b>2015–2019</b>	    Senior Scientist at Instituto de Medicina Molecular, Portugal <br />
+<b>2012–2015</b>	    Lecturer at ETH Zürich (D-CHAB, IPW) <br />
+<b>2011–2015</b>	    Postdoctoral researcher at ETH Zürich (D-CHAB, IPW) <br />
+<b>2005–2009</b>	    Instructor at the Faculty of Pharmacy, University of Lisbon <br />
 
 
-
-<table>
-<thead>
-<th>S.No</th>
-<th>Name</th>
-<th>Date of Birth</th>
-<th>Profile</th>
-<th>Salary</th>
-</thead>
-<tbody>
-<tr>
-<td>1</td><td>Jeff Smith</td>
-<td>35</td>
-<td>Assistant Manager</td>
-<td>120,000</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Maria Garcia</td>
-<td>42</td>
-<td>Department Head</td>
-<td>85,000</td>
-</tr>
-<tr>
-<td>3</td>
-<td>David Rodriguez</td>
-<td>37</td>
-<td>Senior Sales Executive</td>
-<td>45,000</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Eyon Shih</td>
-<td>32</td>
-<td>Sales Executive</td>
-<td>35,000</td>
-</tr>
-</tbody>
-</table>  
-  
-  
+<pre class="tab"><b>2022–present</b>  Assistant Professor at Faculty of Pharmacy, University of Lisbon<br /></pre>
+<pre class="tab"><b>2020–present</b>  Group leader at Faculty of Pharmacy, University of Lisbon <br /></pre>
+<pre class="tab"><b>2019–present</b>  Co-founder of TargTex S.A. <br /></pre> 
+<pre class="tab"><b>2019–2020</b>	    Junior Group Leader at Instituto de Medicina Molecular, Portugal <br /></pre>  
   
 </p>
 
