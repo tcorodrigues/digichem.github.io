@@ -1,3 +1,7 @@
+---
+layout: page
+title: ""
+---
 
 ## Interested in joining us?
 We are always looking for enthusiastic and creative researchers to join the **DigiChem Lab**. We are a multidisciplinary and multicultural group doing collaborative research in machine learning, medicinal chemistry, chemical biology and nanotechnology and with tight links to the pharmaceutical industry. <br />
