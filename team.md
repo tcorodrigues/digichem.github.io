@@ -11,7 +11,7 @@ If you share the same interests, have complementary expertise or simply want to 
 **Funded PhD and Postdoctoral positions will be advertised when available. Postdoctoral researchers are encouraged to obtain their own fellowships.**
 <br />
 <br />
-
+<br />
 ## Principal Investigator
 Tiago Rodrigues
 <br />
