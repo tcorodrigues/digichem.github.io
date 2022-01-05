@@ -10,3 +10,16 @@ If you share the same interests, have complementary expertise or simply want to 
 <br />
 **Funded PhD and Postdoctoral positions will be advertised when available. Postdoctoral researchers are encouraged to obtain their own fellowships.**
 
+
+## Principal Investigator
+Tiago Rodrigues
+
+## PhD candidates
+A. Filipa Almeida
+
+## MSc students
+Joana Neves
+
+
+## Alumni
+**2021** Andżelika Lorenc (PhD candidate at Nicolaus Copernicus University)
