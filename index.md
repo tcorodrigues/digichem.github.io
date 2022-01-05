@@ -18,4 +18,4 @@ Located in Lisbon, we are a multidisciplinary group interfacting computation and
 
 ### Our Funders
 
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/funders.jpg" alt="funders" width="300"></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/funders.jpg" alt="funders"></p>
