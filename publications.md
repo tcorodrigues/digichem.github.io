@@ -4,6 +4,21 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
+
+<p style="text-align:right;"><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.chempr.2021.12.006"></div></p>
+**65\. Deriving intuition in catalyst design with machine learning** <br />
+**T. Rodrigues**\* <br />
+[*Chem* **2022**, doi: 10.1016/j.chempr.2021.12.006](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
+- Invited Preview
+
+
+
+
+
+
+
+
 **65\. Deriving intuition in catalyst design with machine learning** <br />
 **T. Rodrigues**\* <br />
 [*Chem* **2022**, doi: 10.1016/j.chempr.2021.12.006](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
@@ -13,8 +28,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg" style='border:2px solid #1c8cc8' alt="toc" width="400">
 </a></p>
 
-<p style="text-align:left;"><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.chempr.2021.12.006"></div></p>
+
 <br />
 <br />
 <br />
