@@ -11,8 +11,7 @@ img {
 </head>
 <body>
 
-<h2><FONT COLOR="#1c8cc8">test</FONT></h2>
-<h2>Biography</h2>
+<h2><font color="#1c8cc8">Biography</font></h2>
 
 <p><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/tiago.gif" >
 Tiago grew up in Setúbal, Portugal and graduated in <b>pharmaceutical sciences (PharmD) from the University of Lisbon</b> in 2006. He then completed his <b>PhD in medicinal chemistry (2010) under the supervision of Dr Francisca Lopes</b>, where he worked on the computational design, synthesis and profiling of potential anti-plasmodial small molecules acting through cytochrome <i>bc</i><sub>1</sub>. Next, he moved to the <b>computer-assisted drug design group led by Prof Gisbert Schneider at the ETH Zürich</b> where he worked as a postdoctoral researcher on a range of collaborative projects – spanning from <i>de novo</i> design and microfluidic-assisted syntheses to machine learning for deorphanization of natural products – with both academia and industry. In late 2015 he returned to Portugal to work as Marie Curie Fellow and senior researcher in the group of <b>Prof Gonçalo Bernardes at the Instituto de Medicina Molecular</b>. There, he co-developed small molecule–ligand conjugates and built machine learning workflows to unveil de modes of action of several high value natural products with anticancer activity. His research resulted in the VC-funded, biotech company <b>TargTex S.A.</b> where he acts as co-founder. 
@@ -28,7 +27,7 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <br />
 <br />
-<h2>Honours & Awards</h2>
+<h2><font color="#1c8cc8">Honours & Awards</font></h2>
 <b>2021</b>	Invited as <i>Organic & Biomolecular Chemistry</i> New Talent <br />
 <b>2021</b>	Invited as <i>RSC Chemical Biology</i> Emerging Investigator <br />
 <b>2021</b>	Invited as <i>ChemBioChem</i> ChemBioTalent <br />
@@ -45,7 +44,7 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <br />
 <br />
-<h2>Professional Activity</h2>
+<h2><font color="#1c8cc8">Professional Activity</font></h2>
 <b>2022–present</b>   Assistant Professor at Faculty of Pharmacy, University of Lisbon <br />
 <b>2020–present</b>   Group leader at Faculty of Pharmacy, University of Lisbon <br />
 <b>2019–present</b>   Co-founder of TargTex S.A. <br />
