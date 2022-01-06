@@ -4,36 +4,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
-
-<html>
-<head>
-<style>
-img {
-  float: right;
-  border: 0px;
-  margin: 0px 0px 10px 15px;
-}
-</style>
-</head>
-<body>
-
-
-<p><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
-
-<b>65. Deriving intuition in catalyst design with machine learning<b /><br />
-<b>T. Rodrigues<b /> <br />
-[*Chem* **2022**, doi: 10.1016/j.chempr.2021.12.006](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
-- Invited Preview
-
-</p>
-
-</body>
-</html>
-
-
-
-
 **65\. Deriving intuition in catalyst design with machine learning** <br />
 **T. Rodrigues**\* <br />
 [*Chem* **2022**, doi: 10.1016/j.chempr.2021.12.006](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
