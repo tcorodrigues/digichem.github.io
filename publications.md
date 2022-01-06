@@ -13,13 +13,18 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg" style='border:2px solid #1c8cc8' alt="toc" width="400">
 </a></p>
 
-<p style="text-align:right;">
-  <a href="https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9">
-  <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg" style='border:2px solid #1c8cc8' alt="toc" width="400"></a></p>
-<p style="text-align:left;">
+
+
+
+.right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
   <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-  <a href='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></a>
-</p>
+  <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"><div>
+
 
 
 <br />
