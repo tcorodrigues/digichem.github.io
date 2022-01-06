@@ -13,22 +13,22 @@ If you share these interests, have complementary expertise or simply want to exp
 <br />
 <br />
 ## Principal Investigator
-Tiago Rodrigues (Portugal)
+Tiago Rodrigues (Portugal)<br />
 <br />
 <br />
 ## PhD candidates
-A. Filipa Almeida (Portugal)
-Viktor Tscharf (Germany; Starting Feb 2022)
+A. Filipa Almeida (Portugal)<br />
+Viktor Tscharf (Germany; Starting Feb 2022)<br />
 <br />
 <br />
 ## MSc students
-Joana Neves (Portugal)
-Giullia Varignani (Italy; Starting Feb 2022)
+Joana Neves (Portugal) <br />
+Giullia Varignani (Italy; Starting Feb 2022)<br />
 <br />
 <br />
 ## Undergraduate
-Bharath Sai (India; Starting Feb 2022)
+Bharath Sai (India; Starting Feb 2022)<br />
 <br />
 <br />
 ## Alumni
-**2021** Andżelika Lorenc (Poland; PhD candidate at Nicolaus Copernicus University)
+**2021** Andżelika Lorenc (Poland; PhD candidate at Nicolaus Copernicus University)<br />
