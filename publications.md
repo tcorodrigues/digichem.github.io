@@ -13,7 +13,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg" style='border:2px solid #1c8cc8' alt="toc" width="400">
 </a></p>
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.chempr.2021.12.006"></div>
+<div> <class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.chempr.2021.12.006"></div>
 <br />
 <br />
 <br />
