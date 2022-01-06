@@ -7,7 +7,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 <p style="text-align:right;"><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.chempr.2021.12.006"></div></p>
-<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1016/j.chempr.2021.12.006" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.chempr.2021.12.006" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **65\. Deriving intuition in catalyst design with machine learning** <br />
 **T. Rodrigues**\* <br />
