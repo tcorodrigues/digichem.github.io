@@ -13,17 +13,6 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg" style='border:2px solid #1c8cc8' alt="toc" width="400">
 </a></p>
 
-<div class="d-flex justify-content-between">
-      <div>
-         left
-      </div>
-      <div>
-         right
-      </div>
- </div>
-
-
-
 <br />
 <br />
 <br />
