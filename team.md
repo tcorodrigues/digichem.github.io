@@ -26,7 +26,7 @@ Joana Neves (Portugal) <br />
 Giullia Varignani (Italy; Starting Feb 2022)<br />
 <br />
 <br />
-## Undergraduate
+## Undergraduates
 Bharath Sai (India; Starting Feb 2022)<br />
 <br />
 <br />
