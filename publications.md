@@ -13,8 +13,8 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Chem_2022.jpg" style='border:2px solid #1c8cc8' alt="toc" width="400">
 </a></p>
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.chempr.2021.12.006"></div>
+<p style="text-align:left;"><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.chempr.2021.12.006"></div></p>
 <br />
 <br />
 <br />
