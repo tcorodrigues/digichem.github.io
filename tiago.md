@@ -11,6 +11,7 @@ img {
 </head>
 <body>
 
+<p style="color:blue"><h2>Biography</h2></p>
 <h2>Biography</h2>
 
 <p><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/tiago.gif" >
