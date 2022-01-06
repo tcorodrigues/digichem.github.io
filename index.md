@@ -3,6 +3,7 @@ layout: page
 title: ""
 ---
 
+## <span style = 'color:#1c8cc8'> Welcome to the Digital Chemistry Lab!</span>
 ## Welcome to the Digital Chemistry Lab!
 
 <br />
