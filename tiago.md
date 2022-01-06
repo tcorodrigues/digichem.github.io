@@ -5,7 +5,7 @@
 img {
   float: right;
   border: 0px;
-  margin: 0px 0px 15px 15px;
+  margin: 0px 0px 10px 15px;
 }
 </style>
 </head>
