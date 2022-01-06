@@ -11,7 +11,7 @@ img {
 </head>
 <body>
 
-<h2><FONT COLOR="#FFFF99">The text is yellow</FONT></h2>
+<h2><FONT COLOR="#1c8cc8">test</FONT></h2>
 <h2>Biography</h2>
 
 <p><img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/tiago.gif" >
