@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About Tiago", file: "tiago.md"}
   - {title: "Team", file: "team.md"}
   - {title: "News", file: "news.md"}
-  
+  - {title: "Software", file: "software.md"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tiago.rodrigues@ff.ulisboa.pt"}
