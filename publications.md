@@ -9,6 +9,8 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 *Digital Chem* **2022**, *accepted*
 - Invited Contribution
 
+<br />
+
 **65\. Deriving intuition in catalyst design with machine learning** <br />
 **T. Rodrigues**\* <br />
 [*Chem* **2022**, *8*, 15-19](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
