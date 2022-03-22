@@ -4,6 +4,11 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
+**66\. Nuisance small molecules under a machine-learning lens** <br />
+**T. Rodrigues**\* <br />
+*Digital Chem* **2022**, *accepted*
+- Invited Contribution
+
 **65\. Deriving intuition in catalyst design with machine learning** <br />
 **T. Rodrigues**\* <br />
 [*Chem* **2022**, *8*, 15-19](https://www.cell.com/chem/fulltext/S2451-9294(21)00637-9)
